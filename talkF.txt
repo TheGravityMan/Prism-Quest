@@ -1,0 +1,1719 @@
+
+#guard
+%
+True
+sword_give
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+SETH:
+	"Is there anything you can tell me about the town?"
+GUARD:
+	"Galilei? Ye' 'tis a good town. Lotsa' good folk live 
+	'ere. Me Captain is usually roamin' around inside 
+	somewheres', and I live further in the forest, so I
+	don't get ta see much on the inside. Most people 'er
+	pretty quiet. don't wants' ta get in trouble with the
+	Basileus."
+SETH:
+	"Who is this Basileus?"
+GUARD:
+	"Basileus Maiodin is in charge th' entire region. He's 
+	been in power fer a time now. Keeps to 'imself, mostly.
+	Rules from afar, as they say.
+SETH:
+	"Thanks. I should go, I have a lot to do."
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+$
+True
+sharp_dagger
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+GUARD:
+	"How's yer new dagger work fer ye? Ye didn't 'afta come 
+	back and tell me the a good job I did.
+SETH:
+	"Well, it is pretty sharp. So sure, good job. 
+	I know you can't let me in, but is there anything you 
+	can tell me about the town?"
+GUARD:
+	"Galilei? Ye' 'tis a good town. Lotsa' good folk live 
+	'ere. Me Captain is usually roamin' around inside 
+	somewheres', and I live further in the forest, so I
+	don't get ta see much on the inside. Most people 'er
+	pretty quiet. don't wants' ta get in trouble with the
+	Basileus."
+SETH:
+	"Who is this Basileus?"
+GUARD:
+	"Basileus Maiodin is in charge th' entire region. He's 
+	been in power fer a time now. Keeps to 'imself, mostly.
+	Rules from afar, as they say.
+SETH:
+	"Thanks. I should go, I have a lot to do."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+The guard just grunts in response, seemingly uncaring. You get
+the feeling maybe he is more lonely than he lets on.
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+sharp_dagger
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+GUARD:
+	"HEY! What're you doin' 'round these parts? I ne'er seen
+	you 'ere before.  Just keep yerself outta trouble and 
+	you and meself won't be 'avin any problems."
+SETH:
+	"I assure you, I mean no trouble. My name is Seth. I 
+	have been wandering these woods for days after my ship
+	crashed ashore here. You are the first person I have 
+	talked to since I came here."
+GUARD:
+	"A likely story, and one I hear often. Lucky for yerself,
+	I don't really care where ye're from. Me orders come 
+	from the Basileus 'imself, and 'is orders tell me not to
+	let no one through 'ere."
+SETH:
+	"Fair enough, good sir. So what do you do here all day, 
+	besides not letting anyone through your gates. I imagine
+	the trade here must be flourishing..."
+GUARD:
+	"I don't worry meself with such issues. Most of me time,
+	I just sit 'ere, makin' sure me sword is sharp and ready
+	to slay those, such as yerself, who ask too many 
+	questions and overstay yer welecome. Now get outta 'ere.
+	I don't have time to deal with the likes of ye."
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+
+*
+
+
+
+
+
+
+
+
+
+#girl
+%
+True
+none
+
+$
+True
+none
+
+&
+True
+last
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You approach the little girl. She is clearly afraid, but also
+seems interested in you.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+SETH:
+	"Hey there! You don't need to be afraid. I have been 
+	traveling these woods on little food, and am weak to
+	the point that even you could probably beat me up."
+
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The little girl giggles slightly and moves out from the bushes 
+towards the road.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+
+GIRL:
+	"You don't look so good, mister. I bet I could beat you
+	up! 
+	....
+	Are you ok? You actually do look pretty bad.."
+
+SETH:
+	"Yes, I was traveling on my ship from my homeland of
+	Jax. My ship crashed here, and I have been wandering the
+	woods ever since, looking for ANYONE! Besides the town
+	guard, you are the first one I have seen. 
+GIRL:
+	"Wow! You must be pretty hungry! Have you been eating 
+	rats or something?"
+
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The little girl reaches into one of her pockets and pulls out
+some jerky. The moment you see it, your mouth begins to water.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+
+GIRL:
+	"Here, take this. You prob'ly need it more than I do, I
+	am full!"
+SETH:
+	"Thank you. I really do need some food. My name is Seth
+	by the way."
+
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You take the jerky from the little girl, and begin to eat it as
+you talk.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+
+GIRL:
+	"I don't normally trust strangers. My Dad always said 
+	be careful with strangers. But I like you, you seem
+	nice, and you smell really bad and need a bath. 
+	I can run really fast, anyways. 
+SETH:
+	"As I said, you don't need to worry. I am just trying
+	to figure out where I am and how to get home.
+GIRL:
+	"Galilei! This is the town, it's where everyone lives. 
+	We have a lot of stuff here! A market, and shops, and
+	lots of nice poeple! Most of them, I guess... some are
+	mean. My favorite is Bailey. She is the blacksmith! Her
+	shop is closed right now, but she usually opens later. 
+SETH:
+	"What is your name?"
+GIRL:
+	"I'm Maxine!"
+SETH:
+	"Nice to meet you Maxine. Thank you for telling me all
+	of this."
+MAXINE:
+	"I should probably tell you something else. You
+	shouldn't be here. If anyone sees you, they will call
+	Captain Bray. He's nice, but pretty scary if he is 
+	angry. And you are a stranger. So just be careful."
+SETH:
+	"I will heed your warning. Thanks Maxine."
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+
+*
+
+
+
+
+
+#maxine
+%
+True
+none
+
+$
+True
+none
+
+&
+True
+last
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You approach the little girl. She is clearly afraid, but also
+seems interested in you.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+SETH:
+	"Hey there! You don't need to be afraid. I have been 
+	traveling these woods on little food, and am weak to
+	the point that even you could probably beat me up."
+
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The little girl giggles slightly and moves out from the bushes 
+towards the road.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+
+GIRL:
+	"You don't look so good, mister. I bet I could beat you
+	up! 
+	....
+	Are you ok? You actually do look pretty bad.."
+
+SETH:
+	"Yes, I was traveling on my ship from my homeland
+	Jax. My ship crashed here, and I have been wandering the
+	woods ever since, looking for ANYONE! Besides the town
+	guard, you are the first one I have seen. 
+GIRL:
+	"Wow! You must be pretty hungry! Have you been eating 
+	rats or something?"
+
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The little girl reaches into one of her pockets and pulls out
+some jerky. The moment you see it, your mouth begins to water.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+
+GIRL:
+	"Here, take this. You prob'ly need it more than I do, I
+	am full!"
+SETH:
+	"Thank you. I really do need some food. My name is Seth
+	by the way."
+
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You take the jerky from the little girl, and begin to eat it as
+you talk.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+
+GIRL:
+	"I don't normally trust strangers. My Dad always said 
+	be careful with strangers. But I like you, you seem
+	nice, and you smell really bad and need a bath. 
+	I can run really fast, anyways. 
+SETH:
+	"As I said, you don't need to worry. I am just trying
+	to figure out where I am and how to get home.
+GIRL:
+	"Galilei! This is the town, it's where everyone lives. 
+	We have a lot of stuff here! A market, and shops, and
+	lots of nice poeple! Most of them, I guess... some are
+	mean. My favorite is Bailey. She is the blacksmith! Her
+	shop is closed right now, but she usually opens later. 
+SETH:
+	"What is your name?"
+GIRL:
+	"I'm Maxine!"
+SETH:
+	"Nice to meet you Maxine. Thank you for telling me all
+	of this."
+MAXINE:
+	"I should probably tell you something else. You
+	shouldn't be here. If anyone sees you, they will call
+	Captain Bray. He's nice, but pretty scary if he is 
+	angry. And you are a stranger. So just be careful."
+SETH:
+	"I will heed your warning. Thanks Maxine."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+
+*
+
+
+
+
+
+
+
+
+#lucious
+%
+True
+whistle_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+SETH:
+	"How are you, Lucious?"
+LUCIOUS:
+	"I am doing well, Seth! I have been out a few times
+	lately, and it feels good to be in the forest again!"
+SETH:
+	"I am happy to hear it!"
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+
+$
+True
+bailey_hug
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+LUCIOUS:
+	"Thanks you again for finding my compass, Seth."
+SETH:
+	"It was no problem, I am always happy to help. Say,
+	what is to the north of the town? I went as far as I
+	could, but the bridge is out and I cannot get across."
+LUCIOUS:
+	"Yeah, that bridge has been out for some time. I am
+	hoping the palace sends someone to fix it soon. To 
+	the north is the Gal desert. It is quite large and is
+	easy to get lost in, so take care if you venture that
+	way. The Palace of the Basileus is North of us as well.
+	The easiest and fastest way is through the desert. But
+	again, you must be very careful if you choose to go 
+	that way."
+SETH:
+	"YOu are always helpful. Lucious. Thank you again."
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+bailey_hug
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+SETH:
+	"Greetings, good sir. Sorry to bother you and your fine
+	steeds, but I have a few questions I was hoping you
+	could answer."
+LUCIOUS:
+	"Well, Hello there! No need for apologies, that is what
+	I am here for. Well, that and to take care of these
+	horses."
+SETH:
+	"What do you do with the horses here? Do you sell them?"
+LUCIOUS:
+	"Sometimes. Mostly I rent them to folks who wish to
+	travel for a few days. My horses are the best you will
+	find in all of Galilei!"
+SETH:
+	"They are quite beautful. I commend you for you efforts.
+	I don't have need for a horse at the moment,
+	unfortunately. But I would like to talk with you if it
+	isn't much trouble."
+LUCIOUS:
+	"No trouble at all! Not often I get to meet strangers."
+SETH:
+	"What can you tell me about Galilei? You are correct,
+	I am a stranger, and am new to your town. I would like
+	to learn all that I can about it."
+LUCIOUS:
+	"OH, well, just look around! What you see is what you
+	get here. These people are a simple folk who wish to
+	go about their day without any trouble. Some of them
+	work in this village tending shops, some work outside
+	the village and grow food for the rest of us to eat,
+	some work for the village to repair buildings and 
+	keep it clean. You get the idea. There is a lovely
+	little clothing shop to the east. Dario runs the 
+	place. He is a little strange, but he is harmless.
+	Bailey's Blacksmith is to the south, and she is 
+	the best I have ever seen."
+SETH:
+	"What about the big guy over there? With the beard
+	and the large sword."
+LUCIOUS:
+	"That is Bray. He is the head of the Palce Guard who
+	oversee the safety of the people here. He is actually
+	a pretty nice guy once you get to know him. But he
+	doesn't warm up to you unless you prove you are
+	trustworthy."
+SETH:
+	"Thank you. Can you think of anything else I might
+	need to know?"
+LUCIOUS:
+	"Sorry... you know what, I never got your name!"
+SETH:
+	"Oh yeah, I apologize. Sometimes I get too focussed
+	on one thing. My name is Seth. My ship crashed here a
+	few weeks ago, and I have just found this village."
+LUCIOUS:
+	"It is a pleasure, Seth. I am Lucious! To tell you the
+	truth, I do not know much more about the town. I spend
+	a lot of my time out in the woods. I love it out there,
+	and you can always find something new! Although I have
+	not been out much as of late. I lost my compass and
+	now it is harder for me to get a bearing on where I am.
+	That forest can be a maze sometimes!"
+SETH:
+	"You have already helped me immensely, Lucious. I
+	thank you for your time."
+LUCIOUS:
+	"Come back and visit anytime you want to talk, Seth.
+	I am always happy to oblige!"
+
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+#enzo
+%
+True
+clock_fix
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+ENZO:
+	"Yeah, you don't need to tell me, I get it."
+SETH:
+	"Are you sure? Are you ok?"
+ENZO:
+	"I am alright. I think I need to close down for a few.
+	See ya, Seth. Hopefully under better circumstances."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+$
+True
+give_octopus
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+ENZO:
+	"How are the adventures, Seth? Come across anything 
+	else this guy over here might enjoy?"
+SETH:
+	"With regret, I cannot say that I have. How is the
+	trade these days?"
+ENZO:
+	"Eh, I can't complain. It is never great, but it ain't
+	bad either. I make it work.
+SETH:
+	"Is there anything else about the town that I might
+	find helpful you may have not shared with me?
+ENZO:	
+	"I tell ya, Seth, I try to stay outta any serious
+	business. 
+
+	...
+	
+	but I will tell ya somethin'. As a traveller like
+	yourself, I have been to a lot of different places.
+	Many different lands. But there is somethin' about
+	this place that is.... uhh.. different."
+SETH:
+	"Different?"
+ENZO:
+	"I wish I could explain it, to tell ya the truth. But
+	I can't. People here seem pretty happy with their lot
+	in lives. The thing is.. no one ever seems to change
+	ANYTHING. Everyone goes about their business, doing the
+	same thing, at the same times, everyday. It's strange,
+	ya know? Wouldn't ya want some change every so often?
+	Maybe do somethin' fun? Not around here, I guess. But
+	it doesn't exactly hurt anyone, so who am I to judge."
+SETH:
+	"Hmmm. That is something. I thank you. I can't much
+	make sense of it, but I am also getting a strange
+	feeling about this place. If I find anything odd, I
+	will keep you informed."
+
+ENZO:
+	"Good luck, Seth."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+give_octopus
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+ENZO:
+	"Heya, How you doin', thanks for stoppin' by my
+	wnderful shop here."
+SETH:
+	"Good afternoon, Enzo. Your shop sure is.. umm..
+	interesting."
+ENZO:
+	"OH yeah, peoples from all over come here and trade
+	wit' me. Got quite a reputation, if ya know what I'm
+	sayin'. You see anything ya like? Anything that
+	tickles yer funny bone?"
+SETH:
+	"Well, I am a traveller, so I am trying to keep it as
+	light as possible. But I will take a look and see.
+	What kinds of things do people trade you?"
+ENZO:
+	"Pretty much anything I might find of value, which has
+	to be SOMETHIN' to be something', if ya know what I
+	mean. I have always been particularly fond of animals
+	and any animal related things. People have tried to
+	trade dead animals to me, but I don't want nothin'
+	like that!"
+SETH:
+	"Yes, of course. Well, if I see anything you might be
+	interested in on my travels, I will assuredly stop 
+	back to your cart."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+
+#bray
+%
+True
+river_cross
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+BRAY:
+	"Seth. Good to see you are well. I looked into what
+	you had said to me earlier. I wish I could say my 
+	findings made sense. If I had to guess based on
+	what I know, I would say you were telling the truth."
+SETH:
+	"What did you find out, Captain?"
+BRAY:
+	"I have been taking a closer look at Dario who runs
+	the Haberdashery. If you have not yet, I think you
+	should take a look at his shop and see what you
+	can find. 
+	There is something else. I cannot explain it. You 
+	had said something about the clock, so I decided to 
+	take a closer look. I can't."
+SETH:
+	"What do you mean, you can't? The clockface is empty
+	and does not work."
+BRAY:
+	"What I mean, is that I can't. If I go over there...
+	somehow...I end up back here. Or over on the other
+	side of the plaza. I don't know, but something is
+	going on. With this said, if you are right about
+	that, you might also be right that the Basileus
+	is keeping an eye on me. If this is true, which I
+	believe is the case, then you must help me."
+SETH:
+	"What do you need me to do?"
+BRAY:
+	"I am going to tell you something that I probably 
+	should not. But I trust you, for some reason. I just
+	hope my gut is correct on this one.
+	I have a contact close with the Palace. His name is
+	Vincent, and he lives underneath the palace. There
+	is a secret passage somewhere outside of the Palace
+	front Gate. I know not where it is, but there are a
+	few structures that could hold something of interest
+	out there. 
+	Find Vincent. He is a good man, but I have always
+	believed him to be misguided. He always talks about
+	nonsense and conspiracies. I never considered that he
+	may be telling the truth."
+SETH:
+	"I will take a look, Bray. I will let you know what
+	I find out."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+	
+
+$
+True
+sword_give
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+BRAY:
+	"So you were on a ship that crashed on this land.
+	How did you survive in the woods? And from what land?"
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You think this is a good opportunity to tell your story to 
+Bray. Perhaps he will believe you and help you. You tell him
+everything about your past. You talk about your father, the 
+King of Jax and describe your homeland. You proceed to tell
+about how You left Jax to see the world and visited
+a few different islands before being swept up in a large storm. 
+your ship was destroyed, but you managed to swim to the shore. 
+You had your knife and the knowledge of how to survive in the
+wildnerness, where you were able to hunt for food and build
+fires for camp. Eventually you wound up here.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+BRAY:
+	"That is quite a story. I must tell you that I am very
+	good in knowing whether or not people are lying to me."
+SETH:
+	"Well, it is the truth."
+BRAY:
+	"I know. Look at yourself, you look terrible. I have
+	yet to encounter anything like this. I am going to 
+	keep an eye on you, but my instincts tell me I won't
+	have to worry. To thank you for delivering my sword,
+	I will inform the guards to grant you free passage.
+	You may pass through the town gates at your leisure.
+	Just do not make me regret it."
+SETH:
+	"Thank you, Captain."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You think about the letter you found near the well.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+SETH:
+	"Captain Bray, I must tell you of something I found in
+	the town to the south."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You tell the Bray about the parchment you found.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+BRAY:
+	"It is dangerous to speak out against the Basileus. I
+	encourage your discretion with speaking of such matters.
+
+	...
+		
+	with that said, I will look into it. Make yourself
+	useful around here, Seth. Come back later and perhaps
+	we will be able to help each other."
+
+SETH:
+	"Yes sir. I appreciate your time."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+sword_give
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You approach the guard.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+SETH:
+	"Greetings, sir. I apologize for disturbing you."
+BRAY:
+	"You disturbed me the moment I set eyes on you. I do
+	not trust those who I do not know. However, Galilei
+	is an open town, and so you are welcome. But know
+	that you are under MY scrutiny now."
+SETH:
+	"I understand."
+BRAY:
+	"What is your name, stranger?"
+SETH:
+	"My name is Seth. I am indeed a stranger to your land.
+	My ship crashed to your shores days ago, and I have
+	just come upon your city."
+BRAY:
+	"Well, Seth, I am Captain Bray of the Royal Guard. I 
+	am tasked with the safety of this town, and of this
+	land. Stay out of trouble, and you and I will remain
+	cordial. But know that I know all that goes on about
+	town, so do NOT get on my bad side." 
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Bray turns his attention away from you, so you figure this
+conversation to be over. While he isn't looking at you now,
+you know he will have his eye on you from here on out.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+#bailey
+%
+True
+clock_fix
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+SETH:
+	"Bailey? Are you feeling ok?"
+BAILEY:
+	"...."
+SETH:
+	"Bailey? HEY! It is me, Seth."
+BAILEY:
+	".....
+	Seth?
+	Seth. I remember ye."
+SETH:
+	"I gave you my clothes. You gave me Bray's sword. 
+	Remember?"
+---------------------------------------------------------------
+---------------------------------------------------------------
+It takes a couple of seconds, but Bailey begins to come around.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+BAILEY:
+	"Seth. What is happening. I feel as though.... I just
+	woke up from a long sleep. What have I been doin'?
+	I.."
+SETH:
+	"It is ok, Bailey. Everything will be fine. I think I 
+	know what I must do. Just try to relax. I will deal
+	with it."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Bailey nods her head, but says nothing. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+$
+True
+sword_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+SETH:
+	"Is there anything you can tell me about the land of
+	Galilei, Bailey?"
+BAILEY:
+	"Tis a great city. Let me think... Have ye met John?
+	He is a peddler over on the west side of town. He might
+	have an item or two ye could find useful. Otherwise,
+	he is great to talk to. An entertaining fellow, fer
+	sure. Ask 'im to play you music sometime."
+SETH:
+	"Thanks Bailey. Anything else?"
+BAILEY:
+	"There is another shop to the north. It is Dario's
+	shop. Strange fellow, that one. Be careful if ye
+	encounter him."
+SETH:
+	"Assuredly, I will."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+sword_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You approach the counter and attempt to get The shop keeper's
+attention. It is of no use, however, as she is distracted with
+her work. Just when you are about to give up, she finally
+notices you.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+BAILEY:
+	"What have we here? I know not who ye are. Are ye a
+	stranger to this land?"
+SETH:
+	"Indeed I am. My name is Seth. Maxine told me about
+	you, as well as Lucious. I wanted to see the best
+	weapons this land had to offer first hand."
+BAILEY:
+	"Ah, ye flatter me, Seth. I do the best I can here. 
+	Take a look around at your leisure. Me name's Bailey,
+	and I run this here shop. Let me know if I can assist
+	ye in anything."
+SETH:
+	"Thank you. You seem pretty busy here. Business is good
+	I take it?"
+BAILEY:
+	"Aye, it is roarin'. So much so that I can't seem to get
+	a tick of time to meself these days. Always working on
+	some axe or some sword that the Palace needs fixed up.
+	Alas, even if I could get out, t'would be of no use."
+SETH:
+	"What do you mean? You don't like to go out?"
+BAILEY:
+	"I wish more than anything that it were possible. I am
+	somewhat known around these parts. So much so that 
+	whenever I go out into the town, I can't get around
+	without the townspeople wanting to talk. I ain't got
+	time for that!"
+SETH:
+	"I apologize, but I have never heard of you. What are you
+	known for?"
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Bailey just stares at you for a few moments.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+BAILEY:
+	"Ah, it's not worth gett'n into. But hey, if ye come
+	upon some kind of disguise, I would be most appreciative
+	of ye. I have to get back to work. To much to do, Seth.
+	Too much to do. Let me know if I can help ye."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Bailey goes back to work. You consider her words.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+
+#john
+%
+True
+desert_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+JOHN:
+	"How is the guitar, Seth? You been playing a lot?"
+SETH:
+	"Oh.. uhh it is great! A lot harder than I remembered!"
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+$
+True
+guitar_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+JOHN:
+	"How is the guitar, Seth? You been playing a lot?"
+SETH:
+	"Oh yes, it is all coming back very quick! Perhaps
+	sometime soon I shall perform for you all."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+guitar_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You approach the simple looking man.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+SETH:
+	"Good afternoon to you, sir. Fine day, is it not?"
+JOHN:
+	"Aye, it is! The name's John, I am a but a simple
+	peddler in this town. Been here a while now, though
+	as my stock never seems to run low."
+SETH:
+	"Is business not good in Galilei?"
+JOHN:
+	"I thin not! I get plenty of business from the
+	townsfolk. Good people, the most of them! But my stock
+	is still to full to move along. Don't quite have the
+	necessary funds, you see!"
+SETH:
+	"Of course. I shall peruse your wares. My name is Seth,
+	by the way. I am a stranger to this town, so I am not
+	aware of your customs. Being a traveller yourself, is 
+	there anything you can tell me about the land?"
+JOHN:
+	"Not too much, I am afraid. Still figuring it out for
+	myself. I know the Basileus and his Palace to the north.
+	If you have not yet met Bray, the head of the Guard, I 
+	am sure you will soon enough..."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You are interrupted suddenly by shouting from the other
+side of the plaza. It is just the slum looking fellow,
+hollering at a couple who passed too close, or perhaps made eye
+contact..
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+JOHN:
+	"That's Igor. He can get quite loud. He's a good person
+	for the most part, but he is just a bit.."
+SETH:
+	"Obnoxious?"
+JOHN:
+	"Exactly. Other than the usual of asking for money, he
+	will often try to get people to fight with him. Not
+	in a real way, but he likes to pretend. He would 
+	probably be a good fighter if he could get his head
+	straight."
+SETH:
+	"Perhaps I should talk to him sometime. I thank you
+	for your time, John. I am sure to see you again."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+
+#igor
+%
+True
+clock_fix
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You approach Igor and attempt to get his attention. He doesn't
+seem to be there. Physically, he is there, but there is nothing
+behind his eyes.
+You wonder if the transition was too much for him. Hopefully,
+he can recover. The rest of the city is in a similar condition,
+after all. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+$
+True
+wrestle_igor
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+SETH:
+	"Greetings, Igor! How fare you these days?"
+IGOR:
+	"Igor good! Igor great! Igor trying to do what Seth say
+	to do!"
+SETH:
+	"I.. uhhh.. I noticed you are still asking people for
+	gold. The gift of jewels was not enough?"
+IGOR:
+	"OH! Um. Igor smart. Igor Invest in city! Igor still
+	need Capital."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You sigh.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+SETH:
+	"OK, Igor. Good luck to you."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+wrestle_igor
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Against your better judgement, you approach Igor and say hello
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+IGOR:
+	"Ah, stranger! You help Igor? Igor need food. Igor need
+	clothes. Igor need friends!"
+SETH:
+	"I am sorry, my friend. I do not have any gold for you
+	right now. I used my gold to sharpen my knife."
+IGOR:
+	"Its Ok. I am Igor."
+SETH:
+	"Yes, Hello Igor, I am Seth. Pray tell, how did you
+	you come to be... err.. without any gold?
+IGOR:
+	"Oh, Igor not stupid. But Igor make stupid Igor
+	choices. Now, Igor stuck. Igor try to get work.
+	Igor try to find food. But everyday, Igor still has
+	nothing."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You start to feel for the guy. If he is telling the truth, 
+then what can he do if he can not get a job?
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+SETH:
+	"I wish there was something I could do Igor. Let me
+	think.. Do you have any skills? Any talents? Something
+	you are better than others at?"
+IGOR:
+	"Well... Igor strong! Igor not good with math. But Igor
+	good at fighting!"
+SETH:
+	"Maybe something not so violent?"
+IGOR:
+	"Seth not understand. Igor not fight for real. Igor a
+	wrestler!"
+SETH:
+	"A wrestler?"
+IGOR:
+	"Igor a wrestler! Igor in pain, but Igor do it for
+	business! Seth ever wrestle? Seth should wrestle!"
+SETH:
+	"I am afraid I am not much for combat. I have training
+	in the sword, do not doubt, but I do not like to fight
+	if I do not have to. However, I will see if there is
+	any way I can help you, Igor.
+IGOR:
+	"Igor thanks Seth!"
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+#dario
+%
+True
+key_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Dario is no longer inside the main area of the shop. He
+ran to the back when you fixed the apparatus in the back
+of his store.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+$
+True
+turtle_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You brace yourself.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+SETH:
+	"Hello again, Keeper of the Haberdashery."
+DARIO:
+	"AH. well... well met! How is the raft working for you?
+	Did you see the errr... palace?"
+SETH:
+	"Not yet but I shall make it there soon. The raft is
+	perfect. A little silly, but I thank you again for the
+	help."
+DARIO:
+	"Silly? What is so silly about a turtle?"
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You decide not to push the point with him.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+SETH:
+	"Absolutely nothing. Speaking of turtles, what is
+	going on with that odd machine you have in the back of
+	the store?"
+DARIO:
+	"Oh! Umm... that is mine!"
+SETH:
+	"I know it is yours. That is why I am asking you what
+	it is. It's in the shop, after all."
+DARIO:
+	"Yes, well. It should not be. I think. It doesn't
+	work anymore, so I don't know. Just stay away from
+	it!"
+SETH:
+	"Ok"
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+turtle_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You approach the strange looking man.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+SETH:
+	"Good afternoon, sir. My name is Seth."
+DARIO:
+	"Seth? Oh, yes, ummm, nice to meet you. The name's
+	Dario." Welcome to, errrr... my shop! I see you fancy
+	that ugly looking cloak. Perhaps you... you might
+	try on something a bit more.... uhh, modern? Yes,
+	modern!"
+SETH:
+	"Well, I will assuredly take the time to look around
+	your fine store. How has business been, lately?"
+DARIO:
+	"Fine. Just fine. We usually do good business this
+	time of year. Though I often forget what time of year
+	it is! I have a rather forgetful nature, you see. I
+	might, ummm.. might ask you your name again next time.
+SETH:
+	"It is no problem, I understand. I, too, have the same
+	issue. Wandering hearts tends to have wandering minds."
+DARIO:
+	"Oh, I am no wanderer. Well, I guess maybe I am. I
+	go up by the Palace sometimes. Yeah, the Palace.
+	Sometimes. You should go there if you have not. I know
+	the bridge was out a few days ago, I am not sure if 
+	it has yet been fixed. Anyways, The Basileus is a rather 
+	pleasant man."
+SETH:
+	"Hmm. Yes, I have been meaning to do just that. Did you
+	say you know the Basileus?"
+DARIO:
+	"Well, errr, yes. I know him, I have known him all of my
+	life! I think I have. He has always been very nice.
+	Really, very nice."
+SETH:
+	"Ok. So what else do you do when you aren't running the
+	shop?"
+DARIO:
+	"I uhh I like to relax. That's all I usually can do. I
+	am very tired after working this shop all day, you
+	can be sure! Sometimes I will play games with my son.
+	He's getting big, yes he is! He likes to play 
+	Galilei Risk, but I am more of a fan of the, uhhh
+	classics. You know, like chess. Or chinese checkers."
+SETH:
+	"I see. Well, it has been a pleasure talking with you,
+	Dario....
+---------------------------------------------------------------
+---------------------------------------------------------------
+It wasn't
+---------------------------------------------------------------
+---------------------------------------------------------------
+	.....but I must be going. I will come back later and
+	we can talk some more."
+DARIO:
+	"Oh! Ok! Bye!"
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+That was very strange. He was an... interesting person. He 
+wasn't necessarily unpleasant, but very strange. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+#samara
+%
+True
+desert_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+SAMARA:
+	"You wore me down, what can I say? I am a sucker for
+	music. Just follow the directions I gave to you,
+	and you will find the Palace. I must warn you, however.
+	I urge you not to go. The Basileus does not like
+	strangers, and he will not let you get anywhere close
+	to be inside."
+SETH:
+	"I appreciate your concern. I can be pretty
+	resourceful, do not worry. I am only going to try
+	and get inside if I have to."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+$
+True
+whistle_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+SETH:
+	"What else do you do out here besides play music? I
+	imagine it might get a little bored."
+SAMARA:
+	"Nah, I have much to do out here. For the most part, I
+	walk the desert, looking for anyone who may have
+	gotten lost. It happens far more than you would think.
+	It is very easy to get lost in the desert, but many
+	still attempt to cross it to get to the palace."
+SETH:
+	"Have you been to the Palace?"
+SAMARA:
+	"Of course! The Basileus has hired me to help people
+	get across the desert. Well, he hired me to help
+	CERTAIN people across the desert, but I am not going
+	to let someone die of thirst all alone out here!"
+SETH:
+	"Of course not. That is a noble life to live, Samara.
+	I don't suppose you could tell me how to get to the
+	palace."
+SAMARA:
+	"Oh Seth. I really am not supposed to. If the
+	Basileus found out I didn't just help you get back
+	to town, he would skin me alive. I would prefer
+	not to be put in that sort of situation."
+SETH:
+	"I understand. I wouldn't want you getting in trouble.
+	I may just have to find another way."
+SAMARA:	
+	"Don't do anything stupid, Seth. The desert can get
+	dangerous, and it is impossible for me to find
+	everyone! If we meet again, I hope it is here and not
+	out there. Be careful."
+SETH:
+	"Thank you, Samara."
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+whistle_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You approach the young woman. She sees you and give you a 
+slight nod, but she shyly resumes the playing. You attempt
+to engage her in converstaion, but she is too afraid, and will
+not talk to you.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+#vincent
+%
+True
+clock_fix
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+VINCENT:
+	"You did it, didn't you? I can feel it. The land has
+	finally been freed of this curse put upon it. The 
+	time has come for me to divulge to you everything I
+	know.
+
+	The Spell put upon this town, which had been anchored
+	by the clock tower, left the people who lived within
+	it's walls in a state of recursion. Every day that
+	went by was forgotten upon the waking of each new
+	day. Thus, everyday was the same day as it had been 
+	when they went to sleep.
+
+	This means that for as long as the spell has been in
+	use, the town has lived in a cycle of one day over
+	and over."
+SETH:
+	"Then I will ask the obvious question. How long has 
+	this spell been cast. How long have the people been
+	living the same day?"
+VINCENT:
+	"The answer to that question also contains the purpose
+	of the Basileus' actions. You see, not only do the
+	people of Galilei live the same day continuously, but
+	their bodies seem to live the same day continuously as
+	well. This means that as each day goes by, they do not
+	age."
+
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You think about this for a moment. After a deep breath...
+---------------------------------------------------------------
+---------------------------------------------------------------
+SETH:
+	"I get it, Vincent. How long has it been?"
+VINCENT:
+	"244 years."
+SETH:
+	"...what..."
+VINCENT:
+	"We have been here for a long time. So long that we
+	have no partners in trade. We have no foreign tourists.
+	No one in the world knows we exist, as everyone in the
+	land has been here for 244 years. This was all part of
+	Maidoin's plan. The purpose of the spell was so that
+	he could piggyback on the side effect of never aging.
+	He now has as much time as he needs to accomplish his
+	wicked goals."
+SETH:
+	"244 years. I cannot even fathom this period of time.
+	I am most worried about what Maiodin has accomplished
+	so far."
+VINCENT:
+	"It is safe to say thay he accomplished enough. The
+	most notable of these accomplishments was the 
+	descovery of an ancient, mysterious artifact. The
+	only thing I know about it is it's name. The Prism
+	of Aestralius. It is unfathomably powerfull, and I am
+	sure Maiodin does not understand it's full
+	capabilities. However, he knows enough, and has spent
+	years researching how to use it. I fear that he is
+	ready to use it, and I have no idea what that will
+	mean for all of us."
+SETH:
+	"But I have the orb. The curse has been broken. Does
+	this not mean that the Basileus' power has broken
+	as well?"
+VINCENT:
+	"I do not believe your presence here is by accident,
+	Seth. This is a time of reckoning. The final conflict
+	is upon us, and you have been chosen. I do not know
+	how this ends, but I know that it is you who must
+	confront Maiodin. You are the only who can defeat him.
+	You have broken his curse, and restored the land. It
+	will take time, but soon, the people will remember.
+SETH:
+	"Alright, then. It seems I do not have a choice, and
+	it is the only way I can ever have hope of returning
+	home.
+
+	What must I do, Vincent? How do I defeat the Basileus?"
+VINCENT:
+	"I can tell you the way through these tunnels that
+	will bring you directly to his inner chamber. Actually,
+	the path leads through a very important room. This
+	room contains something you will need, so make sure to
+	search it thoroughly.
+	
+	I do not know exactly how to defeat the Basileus, but
+	I trust you will find a way. If he has activated the
+	prism, you will need to stop it. I assume you will
+	need to subdue Maiodin first, so focus on him right
+	away. You can do it, Seth. Go east from here to find
+	the way."
+SETH:
+	"I will do what I can. Here we go. I hope we meet
+	again in better times. What will you do?"
+VINCENT:
+	"I plan on going back into town. It has been a long
+	time since I have been there, and I am guessing
+	the people will be very confused. I must talk with
+	Bailey, especially."
+SETH:
+	"Bailey... she was Queen, wasn't she? Before the
+	Basileus came to power."
+VINCENT:
+	"That is correct Seth. You are sharp, indeed. She was
+	the Queen, and a beloved Queen at that. Maiodin didn't
+	want to waste her talents, so he put her in the
+	Blacksmith. With little surprise, she is one of the
+	best. Unforunately, most of her work goes directly to
+	Maiodin.
+
+	The time has come, Seth. No more delay can be tolerated.
+	Head east from here. Think about what I said.
+
+	Good luck, Seth. May we meet in much better times!"
+SETH:
+	"Good luck to you, Vincent. I am ready. We shall see 
+	each other again."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+$
+True
+vincent_trust
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+VINCENT:
+	"OK, Seth. I belive in who you are. I just have to
+	trust my gut that you are who you say you are. 
+
+	What I am going to tell you might be hard to understand
+	at first, but it is all true. Please, keep an open
+	mind. I will try to explain this as best as I can."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Vincent takes a deep breathe.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+VINCENT:
+	"Galiliei is not what it seems. That much is clear.
+	The people who live within it's walls seem harmless,
+	simple, and kind. Most of them are. What is happening
+	within those walls, however, are not actions of those
+	with free will."
+SETH:
+	"They are being controlled?"
+VINCENT:
+	"In many ways, yes. But not in the way you are
+	thinking.
+
+	I have known the Basileus for much of my life. In 
+	fact, there was a time where you might call us
+	'friends'. We grew up together in a very small village
+	far from here."
+SETH:
+	"He was a commoner? How could that be? How could he
+	be the Lord of this land?"
+VINCENT:
+	"Treason, Seth. In many different forms. Maiodin always
+	had a thirst for power. It was one of the ways in which
+	we had always disagreed. Eventually, he became overcome
+	with his need for power. He believed he was better
+	then the rest of the world, as though he had a
+	perspective that transended everyone else. 
+
+	In his search, after years of study and exploration,
+	he found this little town of Galilei, and decided
+	it was perfect for his plans. This is where things
+	get a little strange.
+
+	Indeed, this town is not what it seems, Seth. Before
+	the Basileus took over, this land had a different
+	leader. A very kind, just, and prosperous leader. It
+	was a Queen, in fact. She was loved by the people, and
+	they worked hard for her and for the good of the land.
+	This led to a peace that lasted for years, and in a way
+	had much to do with how simple it was for Maiodin to
+	take over. He did not come with an army. There was no
+	battle at all. He used magic, and a strange technology
+	that I have yet to fully understand. 
+
+	He subdued the town, and erased their memories of the
+	former life they had lived. Now, they believe he has
+	always been their leader, and blindly follow his
+	orders."
+SETH:
+	"How? How did he do this?"
+VINCENT:
+	"In the center of the town, there is a stucture that
+	used to be a large fountain. You have most likely
+	encountered it, but thought nothing of it."
+SETH:
+	"The clock?"
+VINCENT:
+	"Yes. This structure is much more than a clock that no
+	longer works. It is the source of Maiodin's power.
+	Without it, his hold on the people of Galilei would
+	cease.
+	
+	Seth, you must break this hold. You must disrupt this
+	source of power. It is the only way to return the town
+	back to normal, and the only way to defeat the
+	Basileus. Once you do this, I will tell you eveything
+	else you need to know."
+SETH:
+	"What must I do? I noticed the clock was no longer
+	working, but I did not see much else."
+VINCENT:
+	"The only way to reset the clock is to find the 
+	clock hands and set it to the correct time. It is the
+	exact minute the Basileus cast his spell. I do not
+	know the exact time, but I can help you find it. You
+	have visited the Blacksmith, yes?"
+SETH:
+	"Yes, Bailey's shop."
+VINCENT:
+	"Bailey has a large role in all of this, but all you
+	need to know right now is that there exists a sign
+	in her shop which is the key for the clock. It will 
+	contain many strange symbols and numbers. You must find
+	it, and decipher the code:
+		
+			$ : * ()
+
+	Remember this code. You will need it. Once you find
+	the secret of the clock tower, come back here, and we
+	will win this battle together."
+SETH:
+	"Thank you, Vincent. You have given me much to think 
+	about. I will see what I can do."
+
+	
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+vincent_trust
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+VINCENT:
+	"Well, then. You stumble into my home without warning
+	and then stare at me as though I were out of place?"
+SETH:
+	"It is hard not to be taken back by a home with walls
+	of dirt and sticks."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The old man's scowl slowly forms into a slight smirk.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+VINCENT:
+	"Indeed. Very observant, intruder. It must have taken
+	that kind of intelligence to find yourself here, in
+	the domain of a strange, old man. I could be a wizard.
+	I could be the Basileus' wizard, and could destroy
+	you without a thought."
+SETH:
+	"If you could, you would have done it already. I
+	have nothing to lose. I am way too far into this to
+	turn back now. As you have pointed out, I am digging
+	around under the Palace in order to find out more
+	about the Basileus."
+VINCENT:
+	"You gamble well. What is your name?"
+SETH:
+	"Seth."
+VINCENT:
+	"Well met, Seth. I am Vincent. It just so happens that
+	if you are looking for information about the Basileus,
+	I may be of service. If you are looking to use this
+	informations against Maiodin, I will be even more
+	inclined to help you."
+SETH:
+	"Considering my journey so far, this is refreshing to
+	hear. Indeed, I understand there is something very 
+	strange going on in the town."
+VINCENT:
+	"Yes, Seth. There is. Tell me, what do you know?"
+SETH:
+	"Very little. It seems the townspeople are all very
+	friendly, accepting, and helpful. I have spoken with
+	most of them, and they all seem normal. At a certain
+	point in our conversations, however, there will be
+	a moment of confusion. Something they should be able
+	to recall, or information they should know, they 
+	can't recall. Many times, they have a hard time
+	resuming the conversation. I have tried to discern
+	the source, but I cannot understand why this might be
+	happening."
+VINCENT:
+	"I can tell you why this is happening."
+SETH:
+	"Please do."
+VINCENT:
+	"Not so fast, Seth. I know you are rather new to this
+	part of the world. However, I have been here a long
+	time. Longer than you can imagine. If I am going
+	to divulge this information to you, I need to know
+	I can trust you."
+SETH:
+	"What do you need from me, Vincent?"
+VINCENT:
+	"Hmmm. As of late, it seems the Basileus has become
+	increasingly aware of my presence. I may have need
+	to defend myself, but all I really have are these
+	walls. If you can find me something with which to
+	defend myself, I would be grateful. I would also
+	be willing to trust you to do what needs to be done."
+SETH:
+	"I shall do my best to find that which would help you.
+	Hang tight, Vincent."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+#maiodin
+%
+True
+none
+
+$
+True
+none
+
+&
+False
+emerald_use
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You don't think it is a very good idea to alert Maiodin of 
+your presence. You decide to stay hidden so you can figure out
+how to stop him!
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+
+*
+
+
+
+
+#
+the_end

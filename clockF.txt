@@ -1,0 +1,84 @@
+---------------------------------------------------------------
+---------------------------------------------------------------
+You have set the clock to the correct times. After doing so,
+you feel the entire structure begin to vibrate slightly, and
+hear a low hum coming from somewhere far underneath it. After
+another moment, the clock face begins to illuminate. 
+
+It continues to get brighter and brighter until you can no
+longer stand looking straight at it! Soon, you notice the light
+begin to weaken, and when you turn back to look at the Clock
+face, it is no longer there. The tower stops vibrating, and
+you can no longer hear the low hum.
+
+Instead, you are looking at a series of small stones and levers
+imbedded into the surface of the large Clock Tower. At the top,
+you see a line of small hash marks. To the far left of the marks,
+the number '0' is etched into the rock, and to the right is 
+the number '100'. Two stones, one at each end of the spectrum,
+are stuck and cannot be moved.
+
+Below this, there is row of 10 small, square stones, each with
+a number 0 through 9 upon them. These stones can be pushed,
+where they depress into the stone tower. You are about to 
+begin the Clock Puzzle!
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+#
+---------------------------------------------------------------
+---------------------------------------------------------------
+The Clock Game is simple! A random number will be generated
+between 0 and 100, and it is your goal to guess this number
+before the clock itself. If you guess incorrectly, the range
+of possible numbers decreases and you will be given a 
+new set of numbers to guess from.
+
+You both get one guess each round, with the player going first.
+If you guess out of the range, you lose a turn. Pay attention
+to the possible numbers!
+
+If you lose the game, you will be given a chance to play again,
+or exit the game so you can try again later!
+
+The player goes first. Good luck!
+
+The game starts with a range of 0 to 100!
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+#
+True
+---------------------------------------------------------------
+---------------------------------------------------------------
+You feel the structure begin to shake once again. Then, the
+low hum returns. You are fairly certain you know what comes
+next, so you turn away from the tower as the light returns
+and begins to brighten. After another minute, you turn around
+to see the tower is once again a large clock. The hands are
+positioned correctly and everything seems to be working once
+again!
+
+While you congratulate yourself on fixing the town's clock,
+you notice something else. Upon the small shelf where you
+originally found the clock hands, you see a small and green
+orb. It is a perfect sphere, and seems to be a source of
+light. You have no idea what it is, but think that it may 
+be important, so you take it with you. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+False
+---------------------------------------------------------------
+---------------------------------------------------------------
+You give up on the puzzle for now and decide to try again
+later. The tower transitions once again back into the clock
+face, so you take the hands back. As you walk away, you think
+you hear the sound of mocking laughter coming from the tower.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*

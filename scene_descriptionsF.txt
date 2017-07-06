@@ -1,0 +1,1024 @@
+
+0
+%
+True
+none     
+
+$
+True
+none     
+
+&
+True
+last 1010
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You are in a forest, completely surrounded by trees.  This area
+is overgrown, and it is obvious that no one, neither person nor
+animal, has been around here for a while. The only thing you
+notice is one particularly old, decrepit looking tree in the
+clearing near you.
+
+There are paths going to the north and to the east.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+
+1
+%
+True
+none     
+
+$
+True
+cut_shrub 0110
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You continue east down the dirt path, and eventually come to a
+dead end.  To the north and the east, a tall fence encircles
+the town, protecting it from the outside elements. You have
+cut a path through the shrubs around the fence to east, leading
+into the town.
+
+You can hear the distant sounds of of the town coming from the 
+other side of the wall.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+
+&
+False
+cut_shrub 0100
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You continue east down the dirt path, and eventually come to a
+dead end.  To the north and the east, a tall fence encircles
+the town, protecting it from the outside elements. Currently,
+your way is blocked off in either of those directions.
+
+You can hear the distant sounds of the town coming from the 
+other side of the wall.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+
+
+
+
+2
+%
+True
+bailey_hug 1110
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You once again enter the southern part of Galilei. The area is
+still pretty quiet.
+
+This part of town mainly consists of smaller shops whose 
+structures look as though they may collapse at any moment. Not 
+all of them are abandoned, however. To the east, a weapons shop 
+looks interesting. A dirt road heads to the north.
+
+The buildings are overgrown with bushes which have not been
+attended to in quite a while, based on their appearance.
+There is a small water well in the middle of the road near
+you. You fixed it, and now it works!
+
+Near the well, mostly buried, you see a parchment 
+sticking out of the ground. Maxine is also still playing on
+the other side of the road.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+$
+True
+cloak_get 1100
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You once again enter the southern part of Galilei. The area is
+still pretty quiet.
+
+This is the southern part of the town, which mainly consists
+of smaller shops whose structures look as though they may
+collapse at any moment. Not all of them are abandoned,
+however. To the east, a weapons shop looks interesting, but
+is adorned with a sign that says "closed". A dirt road leads 
+to the north.
+
+The buildings are overgrown with bushes which have not been
+attended to in quite a while, based on their appearance.
+There is a small water well in the middle of the road near
+you. You fixed it, and now it works!
+
+Near the well, mostly buried, you see a parchment 
+sticking out of the ground. Maxine is also still playing on
+the other side of the road.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+True
+last 0100
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You squeeze through the opening in the fence and crawl among
+sharp sticks, spiders, and what could very well be poisonous
+plants. After a few minutes of crawling, you see light.
+You scramble towards the light, and emerge on the other side
+of the fence. As you stand up, the first thing you notice is
+how quiet the area is. As far as you can tell, there is no
+one else around.
+
+This is the southern part of the town, which mainly consists
+of smaller shops whose structures look as though they may
+collapse at any moment. Not all of them are abandoned,
+however. To the east, a weapons shop looks interesting, but
+is adorned with a sign that says "closed". A dirt road heads 
+to the north. You need to be careful, however. It does not
+seem like a good idea to start roaming the town dressed as
+you are, adorning old, torn clothes made in another land.
+Perhaps there is a way to disguise yourself.
+
+The buildings are overgrown with bushes which have not been
+attended to in quite a while, based on their appearance.
+There is a small water well in the middle of the road near
+you. Near the well, mostly buried, you see a parchment 
+sticking out of the ground.
+
+After a few more seconds to take in your surroundings, you are
+surprised to find you are not alone, afterall. To your right, 
+hiding among some bushes on the opposite side of
+the road, you see a young girl.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+
+
+3
+%
+True
+none     
+
+$
+True
+none     
+
+&
+True
+bailey_hug 0100
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You enter the Blacksmith shop. The lighting is quite dim, with
+only a candle or two being the only source of illumination. 
+Weapons of all kinds line the walls of the shop, all looking
+quite marvelous. There are tables with stacks of swords,
+axes, bows, lances, cat-o-nine-tails, morningstars, and all
+kinds of different weapons which are on display. 
+
+On the east side of the shop is a peculiar looking desk
+with random odds and ends lying upon it. There is also
+a small sign that says "FREE" hanging above the table.
+
+The shopkeeper, who you gather must be Bailey, is at work
+behind a large wooden counter on the north side of the room.
+A VERY unique looking wooden sign rests on top of the the 
+wooden counter.
+
+Eventually, Bailey notices you entered the shop and stops her 
+work.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+BAILEY:
+	"Greetings Traveler. Welcome to me Blacksmith shop! Are
+	ye in need of a new implement? I have many swords and
+	shields that one such as ye might be interested in,
+	being as ye look like a very experienced adventurer."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Bailey laughes as she says this, eyeing you up and down. You
+must look like you have been through many battles considering
+the state of your tattered clothing.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+BAILEY:
+	"Let me know if there is anything I can help ye with!"
+
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+
+
+
+4
+%
+True
+river_cross 1011
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You have come upon the front gates of the town. You see an old 
+wooden sign with 'Galilei' Painted upon it. This area has been
+cleared of most vegetation, save for a few small plants. To the 
+north, the river rages, but your turtle raft waits for you in
+the water when you are ready to cross. 
+
+To the east, the gate guard is posted, standing motionless, 
+but acknowledges you with a nod. You can move freely through
+the town gate. The west does not lead to anywhere.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+$
+True
+sword_give 0011
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You have come upon the front gates of the town. You see an old 
+wooden sign with 'Galilei' Painted upon it. This area has been
+cleared of most vegetation, save for a few small plants. To the 
+north, the way is blocked with a river that is moving too 
+quickly to cross without help.
+
+To the east, the gate guard is posted, standing motionless, 
+but acknowledges you with a nod. You can move freely through
+the town gate. The west does not lead to anywhere.
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+sword_give 0001
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You have come upon the front gates of the town. You see an old 
+wooden sign with 'Galilei' Painted upon it. This area has been
+cleared of most vegetation, save for a few small plants. To the 
+north, the way is blocked with a river that is moving too
+quickly to cross without help.
+
+To the east, the gate guard is posted, standing motionless and
+hardly acknowledging your presence. The west does not appear to 
+lead anywhere.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+5
+%
+True
+none
+
+$
+True
+sword_give 0110
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You have entered the far western part of town. The gate stands
+on the far end. You can't seem him, but you know the Guard
+is on the other side of that gate. You see the other part of
+the rope you cut down and used on the well. It had apparently 
+been holding up a sign, which has now crashed on the ground and 
+was splintered into many pieces. Whoops!
+
+Near the eastern path, you see a small tent with a table set 
+up, but apparently on one is attending the tent. A man stands 
+close to the tent, but doesn't pay it much attention. He is 
+asking passing townsfolk for money, and sporadically yells.
+
+	"Please! Help out Igor! Igor needs to eat! Igor Strong! 
+	Igor Needs Food!"
+
+Across the tent from Igor is yet another man. He seems to be
+just another peddler of goods, but he catches your eye and waves
+at you. Behind him are bags of what looks like bread and grains.
+You assume he is a food vender.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+sword_give 0010
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You have entered the far western part of town. The gate stands
+on the far end. You can't seem him, but you know the Guard
+is on the other side of that gate. You see the other part of
+the rope you cut down and used on the well. It had apparently 
+been holding up a sign, which has now crashed on the ground and 
+was splintered into many pieces. Whoops!
+
+Near the eastern path, you see a small tent with a table set
+up, but apparently no one is attending the tent. A man stands 
+close to the tent, but doesn't pay it much attention. He is 
+asking passing townsfolk for money, and sporadically yells.
+
+	"Please! Help out Igor! Igor needs to eat! Igor Strong! 
+	Igor Needs Food!"
+
+Across the tent from Igor is another man. He seems to be just 
+another peddler of goods, but he catches your eye and waves at
+you. Behind him are bags of what looks like bread and grains.
+You assume he is a food vender.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+6
+%
+True
+clock_fix 0111
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You follow the path and enter the the town plaza, the heart of 
+the town of Galilei. This part of the city is much more 
+populated than the southern part, and many of the common folk 
+are present, walking around and taking care of their every-day 
+needs. Many small tents ring the area, all selling goods of 
+various nature. The only one  that particularly catches your 
+eye is a small cart with the  words "Exotic Wares" advertised 
+on the side of it's red canopy.
+
+As opposed to the south side of Galilei, the buildings here
+look as though they are brand new. All of the shops and various
+businesses are open and seem to be doing well. To the east, 
+there is a unique shope that, When  you look further, you see 
+the word "Haberdashery" printed on a small, wooden sign. 
+
+To your other side, you see a small stable, with four large
+horses either sleeping or eating. Among them is a larger man
+tending to their needs. The sign in the front reads:
+
+"Lucious, the Stable Master"
+
+In the center of the town plaza, there is the massive tower
+that serves as the town's clock, which you have fixed. 
+
+On the opposite side of the Plaza, you see Bray, who is much 
+more decorated than the others. His armor is Gold and Red,
+and his broadsword sends shivers down your spine. The guard at
+the gate was big, but this guy could crush him. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+$
+True
+sword_give 0111
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You follow the path and enter the the town plaza, the heart of 
+the town of Galilei. This part of the city is much more 
+populated than the southern part, and many of the common folk 
+are present, walking around and taking care of their every-day 
+needs. Many small tents ring the area, all selling goods of 
+various nature. The only one  that particularly catches your 
+eye is a small cart with the  words "Exotic Wares" advertised 
+on the side of it's red canopy.
+
+As opposed to the south side of Galilei, the buildings here
+look as though they are brand new. All of the shops and various
+businesses are open and seem to be doing well. To the east, 
+there is a unique shope that, When  you look further, you see 
+the word "Haberdashery" printed on a small, wooden sign. 
+
+To your other side, you see a small stable, with four large
+horses either sleeping or eating. Among them is a larger man
+tending to their needs. The sign in the front reads:
+
+"Lucious, the Stable Master"
+
+In the center of the town plaza, you see a large structure in
+the shape of a tower that reaches into the sky. At eye-level
+there is a large clock-face, but it does not have any hands.
+
+On the opposite side of the Plaza, you see Bray, who is much 
+more decorated than the others. His armor is Gold and Red,
+and his broadsword sends shivers down your spine. The guard at
+the gate was big, but this guy could crush him. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+sword_give 0101
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You follow the path and enter the the town plaza, the heart of 
+the town of Galilei. This part of the city is much more 
+populated than the southern part, and many of the common folk 
+are present, walking around and taking care of their every-day 
+needs. Many small tents ring the area, all selling goods of 
+various nature. The only one that particularly catches your 
+eye is a small cart with the words "Exotic Wares" advertised 
+on the side of it's red canopy.
+
+As opposed to the south side of Galilei, the buildings here
+look as though they are brand new. All of the shops and various
+businesses are open and seem to be doing well. To the east, 
+there is a unique shope that, When  you look further, you see 
+the word "Haberdashery" printed on a small, wooden sign. 
+
+To your other side, you see a small stable, with four large
+horses either sleeping or eating. Among them is a larger man
+tending to their needs. The sign in the front reads:
+
+"Lucious, the Stable Master"
+
+In the center of the town plaza, you see a large structure in
+the shape of a tower that reaches into the sky. At eye-level
+there is a large clock-face, but it does not have any hands. 
+
+On the opposite side of the Plaza, you see a guard who is much 
+more decorated than the others. His armor is Gold and Red, and
+his sword sheath looks intimidating. You notice that the sword
+is absent, however. The guard at the gate was big, but this
+guy could crush him. You reason that this must be Bray, the 
+"Captain" whom Maxine and the Guard spoke of. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+7
+%
+True
+key_get 0100
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You open the door the the Haberdashery and walk in. The shop
+is well lit and well stocked. Along the walls, metal bars
+are ring the entire room, and upon them hang many different
+types of Garments. You see many shades and sizes of tunics,
+shirts, scarves, overcoats, and belts among other things.
+
+The main floor of shop is filled with tables and racks, all
+holding more clothing. Nothing seems interesting to you, 
+except for a rack of suits close to door.
+
+Dario is no longer on the sales floor. He ran to the back of 
+the shop and you have not heard anything from him since.
+Hopefully, others do not come in and rob hi blind!
+
+You notice the machine where you found the key is still in the
+back of the shop.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+$
+True
+turtle_get 0100
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You open the door the the Haberdashery and walk in. The shop
+is well lit and well stocked. Along the walls, metal bars
+are ring the entire room, and upon them hang many different
+types of Garments. You see many shades and sizes of tunics,
+shirts, scarves, overcoats, and belts among other things.
+
+The main floor of shop is filled with tables and racks, all
+holding more clothing. Nothing seems interesting to you, 
+except for a rack of suits close to door.
+
+Like Baileys shop, there is a large desk to the side of room,
+and behind it is middle-aged looking man you assume is
+the owner of the shop. As you look in his direction, he 
+realizes he has a customer and greets you.
+
+"Oh, uh.. Hey, Seth! Thanks for, um, coming back!"
+
+Near the back of the shop, a large metal box catches your eye.
+As you look closer, you see it is a machine of some sort.
+It is rather curious, as you see no purpose for it to be back
+here.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+turtle_get 0100
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You open the door the the Haberdashery and walk in. The shop
+is well lit and well stocked. Along the walls, metal bars
+are ring the entire room, and upon them hang many different
+types of Garments. You see many shades and sizes of tunics,
+shirts, scarves, overcoats, and belts among other things.
+
+The main floor of shop is filled with tables and racks, all
+holding more clothing. Nothing seems interesting to you, 
+except for a rack of suits close to door.
+
+Like Baileys shop, there is a large desk to the side of room,
+and behind it is middle-aged looking man you assume is
+the owner of the shop. As you look in his direction, he 
+realizes he has a customer and greets you.
+
+"Oh, uh.. Welcome! To my Shop! I am Dario. Errr.. Let me
+know if there is anything you need!"
+
+Near the back of the shop, a large metal box catches your eye.
+As you look closer, you see it is a machine of some sort.
+It is rather curious, as you see no purpose for it to be back
+here.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+8
+%
+True
+none     
+
+$
+True
+cogs_get 0011
+
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You come across a small claring in the woods. The area is
+sparsly filled with trees. The way to the north and west is
+blocked with some large rock formations that would not be
+worth climbing. To the east, you see the forest diminishing.
+
+Along the northern rock wall, you see a large pile of mud
+dominating the area.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+cogs_get 0011
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You come across a small claring in the woods. The area is
+sparsly filled with trees. The way to the north and west is
+blocked with some large rock formations that would not be
+worth climbing. To the east, you see the forest diminishing.
+
+Along the northern rock wall, you see a large pile of mud
+dominating the area. 
+
+Just as you are about to decide your next move, a gimmer
+in the grass catches your eye. Upon closer examination, you 
+notice a couple of small cogs hidden in the grass.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+9
+%
+True
+desert_get 0110
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+It feels like you have been walking for hours, but eventually
+you find yourself in the middle of a HUGE desert. You are deep
+into it, but you can see the Palace looming in the east, and
+the forest begin again to the west. Looking south, you can see 
+the walls of the town, but there is no way to get in from here.
+
+The desert seems to go in all directions from here. It meets 
+the horizon to the north, seemingly going forever. There are 
+plenty of smaller hills in that direction. However, you don't 
+know if you could find a good path through before the sun sets. 
+Everyone knows the desert at night means certain death.
+
+Samara has explained to you how to get through the desert to
+the palace, so you no longer fear the hot sands and choking
+winds.
+
+You come across a much larger sand dune than any of the others
+you have seen so far. Samara is still around her home, but she
+is now working on learning the Clarinet you have given her.
+It is no surprise that she is learning quickly.
+
+It is stupidly hot and you are thirsty.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+$
+True
+whistle_get 0100
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+It feels like you have been walking for hours, but eventually
+you find yourself in the middle of a HUGE desert. You are deep
+into it, but you can see the Palace looming in the east, and
+the forest begin again to the west. Looking south, you can see 
+the walls of the town, but there is no way to get in from here.
+
+The desert seems to go in all directions from here. It meets 
+the horizon to the north, seemingly going forever. There are 
+plenty of smaller hills in that direction. However, you don't 
+know if you could find a good path through before the sun sets. 
+Everyone knows the desert at night means certain death.
+
+You consider whether or not you could find your way through
+and get to the palace from here. It looks to be a difficult
+trek, and you fear you wouldn't survive if you tried at this
+point. Better to avoid that and see if there is an easier way.
+
+You come across a much larger sand dune than any of the others
+you have seen so far. Samara is still around her home, but she
+is now working on learning the Clarinet you have given her.
+It is no surprise that she is learning quickly.
+
+It is still hot out here.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+whistle_get 0100
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+It feels like you have been walking for hours, but eventually
+you find yourself in the middle of a HUGE desert. You are deep
+into it, but you can see the Palace looming in the east, and
+the forest begin again to the west. Looking south, you can see 
+the walls of the town, but there is no way to get in from here.
+
+The desert seems to go in all directions from here. It meets 
+the horizon to the north, seemingly going forever. There are 
+plenty of smaller hills in that direction. However, you don't 
+know if you could find a good path through before the sun sets. 
+Everyone knows the desert at night means certain death.
+
+You consider whether or not you could find your way through
+and get to the palace from here. It looks to be a difficult
+trek, and you fear you wouldn't survive if you tried at this
+point. Better to avoid that and see if there is an easier way.
+
+You come across a much larger sand dune than any of the others
+you have seen so far. As you get closer, you notice a woman
+leaning against the dune! At the same time, she sees you, and
+glares at you slightly. It looks like she is trying to decide
+whether you are a friend or an enemy.
+
+It is quite hot out here.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+10
+%
+True
+none     
+
+$
+True
+secret_passage 1100
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You find yourself once again at the gates of the Palace.
+
+It is surrounded by a huge, black wall that is absolutely
+impenetrable. The wall is surrounded by large shrubs, which
+upon closer inspection shows them to be covered in spikes,
+which could easily be poisonous. 
+
+From your position, you can see the gates of Palace, which are
+so enormous that there is no way the two guards who are
+posted can see you from this distance. Even if they could, and
+you wanted to get to them, it would be impossibe as a large
+drawbridge separates you. 
+
+The large monolith of the Basileus once stood here, but you
+have destroyed it and uncovered the secret passage to the
+tunnels beneath the Palace.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+secret_passage 0100
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You make your way through the desert, and eventually the
+landscape fades from white to green again. The palace looked
+close while you were in the desert, but it was deceivingly far,
+and you spent more time walking than you anticipated. This also
+made you underestimate the size of the massive palace that
+now stands before you.
+
+It is surrounded by a huge, black wall that is absolutely
+impenetrable. The wall is surrounded by large shrubs, which
+upon closer inspection shows them to be covered in spikes,
+which could easily be poisonous. 
+
+From your position, you can see the gates of Palace, which are
+so enormous that there is no way the two guards who are
+posted can see you from this distance. Even if they could, and
+you wanted to get to them, it would be impossibe as a large
+drawbridge separates you. 
+
+You scan the wall again, and notice something very peculiar. To
+the west, there is a huge monolith that points to the sky. There
+is nothing else like it upon the wall, and it could be worth it
+to look closer.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+14
+%
+True
+clock_fix 0011
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Once again, you are in Vincent't home of dirt. It hasn't
+caved in yet, so you feel a little safer. Vincent is still here
+and the passage to the east will lead to the inside chambers
+of the Palace, as Vincent explained to you. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+
+$
+True
+vincent_trust 0001
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You crawl through the tunnels once again. It doesn't feel as
+long this time, but as you approach the illumination of
+Vincent's chamber, there is no way to ignore the burn in
+your muscles from crawling so much.
+
+Eventually, you find yourself once again in the cavern. There 
+are a few tables and chairs, a large desk, a storage cabinet 
+that you see is filled with bread and other simple foods. Then, 
+of course, there is a small torch which slightly illuminates the 
+room.
+
+Vincent is here waiting for you.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+vincent_trust 0001
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You crawl through the tunnel, which is just large enough for
+you get through without getting stuck. It takes a lot of work
+to get through, but after a while, the tunnel begins to widen
+to the point that you can stand up and carefully walk through.
+
+To your surprise, you walk find a cavern at the end of this
+particular tunnel. The moment you enter, you see signs that
+someone lives here. There are a few tables and chairs, a large
+desk, a storage cabinet that you see is filled with bread and
+other simple foods. Then, of course, there is a small torch
+which slightly illuminates the room. The walls are not
+reinforced in anyways, and you find yourself in a room
+of dirt.
+
+As your eyes adjust to the light, you are startled as you 
+stare into the face of another man staring right back at
+you from across the room. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+VINCENT:
+	"You found me. I suppose there is not much of a reason
+	to hide myself any longer, eh? I am Vincent."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+
+15
+%
+True
+none     
+
+$
+True
+emerald_get 0110
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You find yourself somewhere deep inside the Palace, once again
+in the office of Basileus.
+
+This room you have come upon is quite ornate. There is a large
+mirror with a gold Frame that is encrusted in rubies and
+saphires. A large desk which holds many different vials
+and parchments is at the opposite corner of the room. You
+have come in from the south, and there is a door to the east.
+
+The chest in the corner remains, but you have already opened
+it and retrieved the emerald. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+emerald_get 0110
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You find yourself somewhere deep inside the palace after
+winding through corridors upon corridors of tunnel. Vincent
+was not lying when he told you it was going to be quite a
+journey to get through.
+
+Eventually, you come upon the wall that you now know is a false
+wall. You put your hands on it and push forcefully. It easily
+moves back, and reveals another passage. You climb out of the
+tunnel and find yourself in a well decorated room.
+
+This room you have come upon is quite ornate. There is a large
+mirror with a gold Frame that is encrusted in rubies and
+saphires. A large desk which holds many different vials
+and parchments is at the opposite corner of the room. You
+have come in from the south, and there is a door to the east.
+
+While there many other things in this room that peak your
+interest, the only thing that catches your eye is a large chest 
+which sits conspicuously in the corner. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+16
+%
+True
+none     
+
+$
+True
+maiodin_nope 0100
+
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You open the door to the east.
+
+You have entered the Basileus' inner chamber. It is a large,
+circular room, adorned with red and gold statues all along
+it's edges, with carpets to match. The ceiling has large,
+gold beams which all lead the the very top, from which a 
+golden sphere hangs.
+
+You cannot begin to understand the purpose of most of the items
+in this room. But these are not important right now. Maiodin
+is still lurching in pain on the other side of the room after
+you used the orb on him.
+
+In the middle of the room, you see what Vincent referred to
+as the "Prism of Aestralius. There is an small but ornate
+table upon which the Prism sits. You notice it is glowing,
+and pulsing with light.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+True
+last 0100
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You take a deep breath and open the door to the east.
+
+You have entered the Basileus' inner chamber. It is a large,
+circular room, adorned with red and gold statues all along
+it's edges, with carpets to match. The ceiling has large,
+gold beams which all lead the the very top, from which a 
+golden sphere hangs.
+
+You cannot begin to understand the purpose of most of the items
+in this room. But these are not important right now. Across 
+from you on the other side of the room, you see a tall man
+wearing a red a gold robe. He is a very clean looking man,
+with short, slicked back hair and a well kept mustache.
+
+This is Maiodin. He seems to be preoccupied at the moment,
+and does not notice your emergence into the room.
+
+In the middle of the room, you see what Vincent referred to
+as the "Prism of Aestralius. There is an small but ornate
+table upon which the Prism sits. You notice it is glowing,
+and pulsing with light.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+17
+%
+True
+none
+
+$
+True
+none
+
+&
+True
+Last 0000
+
+*

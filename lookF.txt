@@ -1,0 +1,2998 @@
+#dagger
+%
+True
+none
+
+$
+True
+sharp_dagger
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You look at your trusty dagger that somehow survived with you
+during the crash. You have had it since you were just a little
+Seth, and it you have used it countless times to help you in
+the past. 
+
+You paid the guard to sharpen it, and now it is once
+again restored to it's former glory.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+sharp_dagger
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You look at your trusty dagger that somehow survived with you
+during the crash. You have had it since you were just a little
+Seth, and you have used it countless times to help you in
+the past. 
+
+The days lost in the forest and using it to cut wood have taken
+its toll, however. The blade has been dulled and is hardly 
+useful in it's current state.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+#clothes
+%
+True
+none
+
+$
+True
+sword_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Your clothes are now worn by Bailey. They look terrible, but
+that is what Bailey wanted, afterall. You are now dressed in
+nothing but undergarments and a thick, black cloack to cover
+yourself in. At least you are warm!
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+
+&
+True
+last
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+They are your clothes. The clothes you are wearing. It consists
+of a shirt, pants, shoes, socks etc.... However, considering 
+you have been wandering around the woods for days without being
+able to change, they have all been reduced to dirt-covered
+rags. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+#gold
+%
+True
+none
+
+$
+True
+sharp_dagger
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+It is gold. Round discs of metal that people find valuable. 
+You hope that if you somehow find civilization somewhere, they
+wii take your money, even if is from your home country.
+
+You don't have anymore.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+True
+last
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+It is gold. Round discs of metal that people find valuable. 
+You hope that if you somehow find civilization somewhere, they
+wii take your money, even if is from your home country.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+#tree
+%
+True
+none
+
+$
+True
+compass_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The old tree is quite large, and looks to be in it's final days.
+The wood is riddled with small indents and cracks running the
+entire length of the body.
+
+You can see the hole where you found the compass.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+compass_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The old tree is quite large, and looks to be in it's final days.
+The wood is riddled with small indents and cracks running the
+entire length of the body.
+
+You notice a small hole about the size of your fist near the
+bottom of the tree's trunk.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+#hole
+%
+True
+none
+
+$
+True
+compass_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+There is nothing left in the hole.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+compass_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You can see a small compass on a gold chain in the hole near
+the bottom of the old tree.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+#compass
+%
+True
+none
+
+$
+True
+compass_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+This is a very old, gold-plated compass. It looks as though 
+the time it spent sitting in the old tree has blemished it's
+original color, as it is now dull brown in appearance, and
+quite dirty. Miraculously, it still functions properly!
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+compass_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+This is a very old, gold-plated compass. It looks as though 
+the time it spent sitting in the old tree has blemished it's
+original color, as it is now dull brown in appearance, and
+quite dirty. Miraculously, it still functions properly!
+
+The compass is currently still inside the tree
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+#fence
+%
+True
+none
+
+$
+True
+cut_shrub
+
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The fence that protects the town from the outside world is tall
+enough to keep any-sized human out, unless they are a spider-
+person. You check a few of the wooden planks for its integrity,
+but it is heavily reinforced.
+
+You have used your dagger to cut through the vegetation and
+have made a way through to the east.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+cut_shrub
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The fence that protects the town from the outside world is tall
+enough to keep any-sized human out, unless they are a spider-
+person. You check a few of the wooden planks for its integrity,
+but it is heavily reinforced.
+
+As you scan the length of fence on the eastern side, you notice
+something peculiar. As you approach, you see there is actually
+a small chunk of the fence that is missing near the bottom, and
+is overrun with vegetation. The fissure looks large enough for 
+you to get through, but with the shrubs blocking your way, it
+is currently impenetrable.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+#shrubs
+%
+True
+none
+
+$
+True
+cut_shrub
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You have used your dagger to cut away most of the shrubs and
+plants that were too dangerous to get through. Your way through
+the fence is now clear!
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+cut_shrub
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You look closely at the vegetation that has filled in the small
+hole created by the missing part of the fence. There are too
+many thorns and thick branches to clear the way with your 
+hands. There must be way to get through here!
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+#guard
+%
+True
+rope_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You take a look at the guard, who is a pretty big dude. He is 
+staring you down, but doesn't have the same hate in his eyes as
+he had before. Probably because you gave him an exhorbant
+amount of gold. He doesn't have much else around his guard post 
+except for a few other weapons.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+$
+False
+sharp_dagger
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You take a look at the guard, who is a pretty big dude. He is
+staring you down while running his sword back and forth across
+a small rod, using it as a sharpener. The sound it makes hurts 
+your ears. He doesn't have much else around his guard post, 
+except for a few other weapons. You also notice a large coil of
+rope hanging over the top of the town fence.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+True
+sharp_dagger
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You take a look at the guard, who is a pretty big dude. He is
+staring you down, but doesn't have the same hate in his eyes as
+he had before. Probably because you gave him an exchorbant
+amount of gold. He doesn't have much else around his guard 
+post, except for a few other weapons. You also notice a large 
+coil of rope hanging over the top of the town fence.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+#sharpener
+%
+True
+none
+
+$
+True
+sharp_dagger
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You paid the guard to sharpen your dagger, but you no longer
+have any use for the sharpener. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+sharp_dagger
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+GUARD:
+	"Oh, ye eyein' me metal rod? Ya gotta be careful, 
+	there!"
+
+
+The guard chuckles to himself, and then gives you a glance.
+
+	"Or are ye just lookin' to sharpen yer own blade? By 
+	the looks of it, yer dagger there is dull as Roald!"
+SETH:
+	"Actually, yes. I suppose I have been forced to use it
+	quite a bit over the past few days. Or weeks. I don't
+	even know. Anyways, it is practically useless now.
+GUARD:
+	"I'd say so. Tell ye what... I'll sharpen yer blade fer
+	a mere' 75 gold!"
+SETH:
+	"...well, I only have 50 now, but..."
+GUARD:
+	"FLASH SALE! TODAY ONLY! I'll do it fer 50....."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+#rod
+%
+True
+none
+
+$
+True
+sharp_dagger
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You paid the guard to sharpen your dagger, but you no longer
+have any use for the sharpener. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+sharp_dagger
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+GUARD:
+	"Oh, ye eyein' me metal rod? Ya gotta be careful, 
+	there!"
+
+
+The guard chuckles to himself, and then gives you a glance.
+
+	"Or are ye just lookin' to sharpen yer own blade? By 
+	the looks of it, yer dagger there is dull as Roald!"
+SETH:
+	"Actually, yes. I suppose I have been forced to use it
+	quite a bit over the past few days. Or weeks. I don't
+	even know. Anyways, it is practically useless now.
+GUARD:
+	"I'd say so. Tell ye what... I'll sharpen yer blade fer
+	a mere' 75 gold!"
+SETH:
+	"...well, I only have 50 now, but..."
+GUARD:
+	"FLASH SALE! TODAY ONLY! I'll do it fer 50....."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+#rope
+%
+True
+doll_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You already had the rope, and used it to fix the well. It is
+not here anymore.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+$
+True
+rope_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You obtained the rope near the town gate. Even though you cut
+it near the top with the sharp rock, it is still fairly long
+and could be useful.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+rope_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The rope is anchored somewhere on the other side of the fence,
+but the bulk of it hangs over on this side. However, it is much
+too high for you, or the guard for that matter, to reach. If 
+there was a way for you to untie or cut the rope near the top,
+you might be able to get it. A rope could be very handy.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+
+#river
+%
+True
+none
+
+$
+True
+river_cross
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The river's current is still too strong to swim across. 
+However, your turtle raft you obtained from the haberdashery
+is large enough to get you across.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+river_cross
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The river, while not too violent, is still moving too quickly 
+for you to try and swim across. You easily discern that the 
+current would pull you under. On the other side of the river, 
+you can see the forest becomes much less dense with trees in 
+the distance. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+#girl
+%
+True
+none
+
+$
+True
+cloak_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Maxine is pretty shy, but since you were able to find her Green
+Ranger doll, she is no longer frightened of you. 
+
+She is wearing a dirty brown dress, and has dirt and rocks 
+sticking out of her pockets, as could be expected of kids. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+True
+last
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The young girl is pretty shy, but seems pretty interested in 
+you. She must not see too many strangers, especially those 
+appearing from under the fence.
+
+She is wearing a dirty brown dress, and has dirt and rocks 
+sticking out of her pockets, as could be expected of kids. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+#maxine
+%
+True
+none
+
+$
+True
+cloak_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Maxine is pretty shy, but since you were able to find her Green
+Ranger doll, she is no longer frightened of you. 
+
+She is wearing a dirty brown dress, and has dirt and rocks 
+sticking out of her pockets, as could be expected of kids. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+True
+last
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The young girl is pretty shy, but seems pretty interested in 
+you. She must not see too many strangers, especially those 
+appearing from under the fence.
+
+She is wearing a dirty brown dress, and has ofdirt and rocks 
+sticking out of her pockets, as could be expected of kids. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+
+
+
+
+#well
+%
+True
+cloak_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You approach the old well to get a better look. It is made of
+old, grey stone, but seems stable enough. You have used the
+rope you found by the town gate to fix the well, and it works
+again. You also found Maxine's Green Ranger doll here. She
+was very happy to get it back.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+$
+True
+doll_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You approach the old well to get a better look. It is made of
+old, grey stone, but seems stable enough. You have used the
+rope you found by the town gate to fix the well, and it works
+again. You also found the Green Power Ranger doll here. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+True
+last
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You approach the old well to get a better look. It is made of
+old, grey stone, but seems stable enough. One glaring problem
+is the fact that the rope, which is attached to the crank at
+one end, is severed and completely useless. You wonder how the
+town gets their water if the well is out of order? The bucket,
+now useless, sits next to the well.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+#bushes
+%
+True
+none
+
+$
+True
+rock_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+There is nothing of interest left in the bushes.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+rock_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Feeling rather desperate, you take a look among the bushes, not
+expecting to see much. To your surprise, however, you find a 
+small, long, sharp black rock. Seeing as you don't have your
+dagger anymore, you think this might come in handy.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+
+
+#shop
+%
+True
+sword_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The shop is still open for business. Bailey is still tending 
+the shop even though you have given her a way to be conspicuous 
+while moving about town. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+$
+True
+bailey_hug
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Apparently, the shop has once again been opened. The closed
+sign is gone, and you see movement through the window. Someone
+is currently tending the shop.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+bailey_hug
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The blacksmith shop to the east looks to be kept up and still
+in use. However, a wooden sign hangs from the door saying that
+it is closed. You peer inside the window, but see no movement
+of any kind. Perhaps you should come back later.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+
+#parchment
+%
+True
+none
+
+$
+True
+none
+
+&
+True
+last
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You reach down and pick up the parchment on the ground. You 
+unfold it and take a look. It reads:
+
+
+	"D,
+		You have done a fine job in the city thus far.
+	 I know it is difficult to continue your work given the
+	 current circumstances, but I assure you, you are with
+	 the greater good, and will be handsomely rewarded for
+	 your service. Continue to notify me of any treasonous
+	 talk from the townspeople, especially among the guards. 
+	 Bray is loyal, but he has a wandering heart, so it is
+	 important we keep watch on him. 
+
+	 Well done on rendering the town clock un-usable. That 
+	 is the kind of chaos we need to keep people afraid of 
+	 going against us. You could never understand it, but
+	 the clock is of the utmost importance for our mission.
+         Enclosed, as usual, is your payment, plus a little 
+	 extra for you loyalty. 
+
+		-M
+
+
+Not seeing any reason to keep the parchment, and having no real
+attachment to it, you toss it back to the ground.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+#rock
+%
+True
+rope_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You already used the rock to get the rope. Don't be greedy!
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+$
+True
+rock_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The rock is black in color, and is about 5 inches long. It is
+very sharp and almost resembles the throwing knives you used to
+use back home.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+rock_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The rock is black in color, and is about 5 inches long. It is
+very sharp and almost resembles the throwing knives you used to
+use back home.
+
+The rock is still mostly hidden within the bushes. This could
+be useful to you.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+#doll
+%
+True
+none
+
+$
+True
+none
+
+&
+True
+doll_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+This is the Green Power Ranger, the best of the Power Rangers.
+You wish the Dragonzord was here, it would be worth a fortune!
+While you may need to give this to someone more..... of age...
+you make a vow to yourself to try and find it again someday.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+#cloak
+%
+True
+none
+
+$
+True
+none
+
+&
+True
+cloak_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+It is a large, black cloak. Maxine gave it to you for finding 
+her doll. While you walk around the town, this makes sure you 
+fit in better with the townsfolk, and no one will question you. 
+It also keeps you nice and warm.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+
+#cart
+%
+True
+none
+
+$
+True
+give_octopus
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You take a closer look at the "Exotic Wares" cart. There are
+items here so insanse, you cannot begin to describe them. 
+Animal skulls of nothing you can recognize, wires and boxes
+with metal protruding at various places, and maps of lands you
+have never heard of, saavy as you are with the world. You see
+Enzo behind the counter talking with customers. He notices
+you staring his way and acknowledges you.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+ENZO:
+	"Howdy, traveling friend. Looking good over there! 
+	 Give me a shout if ya have need my services again!"
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+&
+True
+last
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You take a closer look at the "Exotic Wares" cart. There are
+items here so insanse, you cannot begin to describe them. 
+Animal skulls of nothing you can recognize, wires and boxes
+with metal protruding at various places, and maps of lands you
+have never heard of, saavy as you are with the world. You see
+a man behind the counter talking with customers. He notices
+you staring his way and acknowledges you.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+ENZO:
+	"Howdy, traveling friend. Looking good over there! 
+	 The name's Enzo, just give me a shout if ya have need 
+	 my services!"
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+
+
+#haberdashery
+%
+True
+none
+
+$
+True
+sword_give
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The haberdashery is open.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+sword_give
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Upon closer inspection, it looks like The Haberdashery is 
+closed. You look through the window and see garments of all 
+colors and styles. It looks interesting, maybe you should check 
+it out later.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+
+
+#stable
+%
+True
+none
+
+$
+True
+none
+
+&
+True
+last
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The stable is rather small, and consists 10 stalls, half of 
+which are empty. The conditions seem good, however. Lucious
+must take good care of his horses. The stablemaster is walking
+around, talking and interacting with his horses. There is not
+much else of interest here. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+#clock
+%
+True
+clock_fix
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You have managed to fix the massive clock. The hands are now
+working normally, and tell the time. The whole structure also
+seems to be radiating some kind of energy. You can't quite put
+your finger on what it is, but you can definitely feel it. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+$
+True
+hands_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+This is a massive structure. It serves as the town's center,
+although the townspeople seem to be making a point to avoid it. 
+The stone is smooth around the entire thing, appearing as
+though it was cut from one giant piece of stone. The clock face
+has no hands, and thus you cannot tell what time it is. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+hands_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+This is a massive structure. It serves as the town's center,
+although the townspeople seem to be making a point to avoid it. 
+The stone is smooth around the entire thing, appearing as
+though it was cut from one giant piece of stone. The clock face
+has no hands, and thus you cannot tell what time it is. 
+
+You decide to look a little closer at the clock face. There is
+a piece of rock jutting out from under it, acting as a ledge.
+Upon this ledge, covered in dust, you see two clock hands
+laying there. You wonder why no one from town has tried to fix
+it.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+#bray
+%
+True
+none
+
+$
+True
+sword_give
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Bray is a very large man. He stands on the other side of the
+plaza, keeping an eye on the entire town. He doesn't appear
+to communicate much with the townfolk, as they keep a 
+respectful distance from him. His armor is is worn, but still
+quite beautiful, the gold and red metals gleam in the sun. His
+sword sheath now contains his massive broadsword. One of the 
+most intimidating features of Bray is his massive beard and long
+hair which peaks out from underneath his two-horned helmet.
+
+He still looks at you suspiciously, but also gives you a
+measure of respect for helping him retrieve his sword from
+Bailey. You consider him to be a good ally to have around
+these parts.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+sword_give
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Bray is a very large man. He stands on the other side of the
+plaza, keeping an eye on the entire town. He doesn't appear
+to communicate much with the townfolk, as they keep a 
+respectful distance from him. His armor is is worn, but still
+quite beautiful, the gold and red metals gleam in the sun. His
+sword sheath, while large, is empty. One of the most
+intimidating features of Bray is his massive beard and long
+hair which peaks out from underneath his two-horned helmet.
+
+When he sees you looking at him, he gives you a look that 
+could frighten any of the elite guards which serve your
+homeland. You take note not to start any wars with this town
+in the immediate futre. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+#lucious
+%
+True
+none
+
+$
+True
+bailey_hug
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Lucious is a somewhat gangly man, appearing to be on the tail 
+end of his youth. He adorns a bright red tunic, and wears
+a small blue cap with a red feather protruding out of it. 
+
+He mostly is tending to his horses, whom he clearly has a good
+realationship with. They allow him to groom them and talk to
+them without any scare at all. You think about your own pet,
+a cat whom you left back at home, and are reminded of your
+similar realationship with him.
+
+Since you helped him find his compass, he acknowledges you with
+a smile and a nod.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+
+&
+False
+bailey_hug
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Lucious is a somewhat gangly man, appearing to be on the tail 
+end of his youth. He adorns a bright red tunic, and wears
+a small blue cap with a red feather protruding out of it. 
+
+He mostly is tending to his horses, whom he clearly has a good
+realationship with. They allow him to groom them and talk to
+them without any scare at all. You think about your own pet,
+a cat whom you left back at home, and are reminded of your
+similar realationship with him.  
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+#hands
+%
+True
+clock_fix
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The clock has been restored, thanks to you. The clock hands
+are now moving normally and the people are once again able
+to read what time it is. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+$
+True
+hands_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Now that you have the clock hands, you have cleaned them off
+of dust. You notice they now look immaculate. Being made of
+some type of black rock, there is not a crack or any sign of 
+strain visible. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+hands_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The clock hands lay on the stone directly under the clock face,
+completely covered in dust.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+#enzo
+%
+True
+none
+
+$
+True
+give_octopus
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Enzo is definitely the oddest looking person you have seen in
+the town so far. Standing at a head shorter than yourself, he 
+sports cool looking mustache, and hair the seems to stand up
+off his head on its own, looking as though there is a row of
+spikes reaching to the ceiling. 
+
+Despite his strange appearance, he interacts with everyone who 
+comes by, and the townsfolk all look like they enjoy talking 
+with him. You overhear a few compliments being thrown at those 
+who pass close to his cart. 
+
+He acknowledges you from across the plaza and gestures at 
+the Octopus statue you traded him. It looks great, right 
+front and center of his trade cart.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+give_octopus
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Enzo is definitely the oddest looking person you have seen in
+the town so far. Standing at a head shorter than yourself, he 
+sports cool looking mustache, and hair the seems to stand up
+off his head on its own, looking as though there is a row of
+spikes reaching to the ceiling. 
+
+Despite his strange appearance, he interacts with everyone who 
+comes by, and the townsfolk all look like they enjoy talking 
+with him. You overhear a few compliments being thrown at those 
+who pass close to his cart. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+#desk
+%
+True
+none
+
+$
+True
+hammer_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You take a look at the desk with the sign that says "FREE" on 
+top of it. At this point, you would take anything for free
+considering your current predicament. 
+
+Unfortunately, it seems others had the same idea, as there is
+very little that would be of use to you right now.
+
+On the desk is a small drawer which is filled with small,
+blue marbles.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+hammer_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You take a look at the desk with the sign that says "FREE" on 
+top of it. At this point, you would take anything for free
+considering your current predicament. 
+
+Unfortunately, it seems others had the same idea, as there is
+very few remaining items that would be of use to you right now.
+
+There is, however, a sturdy looking hammer which remains on
+the table. Perhaps you were lucky enough to get here before
+anyone else saw it!
+
+Also on the desk is a small drawer which is filled with small,
+blue marbles.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+#bailey
+%
+True
+clock_fix
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You think it is strange that Bailey is not working on anything.
+She is just standing behind the counter. 
+
+Actually, she doesn't look very well. You don't even think
+she knows you are here.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+$
+True
+sword_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Bailey is a very beautiful women. She looks to be about the
+same age as yourself, if not slightly older. Currently, she
+wears your old clothes which you gave her in order to hide
+herself while she wanders around the town.  
+
+She wears her hair in a ponytail, which has been slightly 
+dishelved due to her work, and a colorful headband to protect
+to keep the sweat out of her eyes. She gives off a vibe that,
+while she is still beautiful, she is very strong and could
+probably best you in combat if need be. 
+
+It would be best to avoid that type of confrontation, you think 
+to yourself. Despite this, you can't help but think about a
+different kind of confrontation....
+
+When she notices you looking at her, she just smiles but 
+continues with her work.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+sword_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Bailey is a very beautiful women. She looks to be about the
+same age as yourself, if not slightly older. Currently, she
+wears a large, protective vest while she is working on 
+fashioning the metal weapons. Under the vest, however, you can
+see she wears a very nice looking purple shirt adorned with
+various jewels, and even a hint of gold linging. You wonder why
+she would wear such nice clothes while working. 
+
+She wears her hair in a ponytail, which has been slightly 
+dishelved due to her work, and a colorful headband to protect
+to keep the sweat out of her eyes. She gives off a vibe that,
+while she is still beautiful, she is very strong and could
+probably best you in combat if need be. 
+
+It would be best to avoid that type of confrontation, you think 
+to yourself. Despite this, you can't help but think about a
+different kind of confrontation....
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+#hammer
+%
+True
+secret_passge
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+There are no more hammers on the desk.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+$
+True
+hammer_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+It is a pretty standard hammer with a wooden handle and a
+large, cone shaped piece of stone which has been perfectly
+crafted and looks flawless. You silently thank Bailey for the
+hammer.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+hammer_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The hammer lay on the desk which has the sign "FREE" on top of 
+it. It is a pretty standard hammer with a wooden handle and a
+large, cone shaped piece of stone which has been perfectly
+crafted and looks flawless. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+#marbles
+%
+True
+turtle_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The marbles in the drawer are simple blue spheres which are 
+made out of glass. The drawer is filled to the brim with them.
+You wonder why no one would want any free marbles? You think
+back to When you were a kid, and how you used to play with 
+marbles with your friends.
+
+You have already used the marbles in trade with Dario, and you
+figure you won't need any more.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+$
+True
+marbles_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The marbles are simple blue spheres which are  made out of glass. 
+The drawer is filled to the brim with them.You wonder why no one 
+would want any free marbles? You think back to When you were a 
+kid, and how you used to play with marbles with your friends.
+
+You think about Maxine, but ultimately decide that you might
+need them later.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+marbles_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The marbles in the drawer are simple blue spheres which are 
+made out of glass. The drawer is filled to the brim with them.
+You wonder why no one would want any free marbles? You think
+back to When you were a kid, and how you used to play with 
+marbles with your friends.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+#sign
+%
+True
+clock_fix
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Now that the clock has been fixed, you don't need any of the
+symbols on the sign any longer. You are afraid to even look at
+it in fear that it might give you a headache.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+$
+True
+vincent_trust
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You take a look at the sign on Bailey's countertop once again,
+remembering what Vincent had said to you. 
+The symbols actually start to make sense of you.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+SETH:
+	"Yes, I get it now. It is actually quite simple. Each 
+	one of these symbols has a string of numbers associated 
+	with it."
+BAILEY:
+	"Aye. But what do they mean? Fer what purpose to these
+	numbers serve ye?
+SETH:
+	"I might have an idea. Would you help me look? 
+---------------------------------------------------------------
+---------------------------------------------------------------
+Bailey and yourself scan over the sign.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+	@ 0 ! 1 $ 2 # 3 * 4 & 5 + 6 () 7 % 8 ^ 9
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+vincent_trust
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You take a look at the unique sign upon Bailey's countertop.
+It makes absolutely no sense to you. There are symbols which
+look to be written in some strange language that you don't 
+recognize. Each group of symbols is followed by a set of
+numbers.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+SETH:
+	"What are these strange symbols?"
+BAILEY:
+	"To be honest, I know not. I found it long ago,
+	somewhere out in the forest."
+SETH:
+	"You just found it lying around in the forest?"
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Bailey takes a second to consider the question.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+BAILEY:
+	"Yep."
+SETH:
+	"Oh... Ok."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+#sword
+%
+True
+sword_give
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Bray has his sword back, and it rests comfortably in the sheath
+situated around his waste. THe sword is massive, and has his
+signature red and gold colors all over the hilt.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+$
+True
+sword_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You currently have Bray's sword which had ben recently
+repaired from Bailey. It is a broadsword with a huge red and
+gold hilt. You figure you yourself are not much taller than
+the entire length of this sword, and wonder what it is like
+in action.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+sword_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+There are a many swords on display in Bailey's shop.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+#peddler
+%
+True
+clock_fix
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+John remains in front of his large pile of wares. But, as with
+a lot of the townspeople, he just stands there in a daze,
+seemingly staring off into the distance.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+$
+True
+guitar_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You take a look at John. He is adorned in simple white
+robes with no other real distinguishing features. He is bald
+but isn't very old looking. Like many of the other townspeople 
+you have encountered he seems very friendly. Behind him, there
+are sacks stacked upon stacks, all containing food goods like 
+bread, grain, a few bottles of wine, and rice. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+guitar_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You take a look at the Peddler. He is adorned in simple white
+robes with no other real distinguishing features. He is bald
+but isn't very old looking. Like many of the other townspeople 
+you have encountered he seems very friendly. Behind him, there
+are sacks stacked upon stacks, all containing food goods like 
+bread, grain, a few bottles of wine, and rice. Looking closer,
+you see a guitar, much like the musicians used to play in Jax
+during festivals and other special events. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+#john
+%
+True
+clock_fix
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+John remains in front of his large pile of wares. But, as with
+a lot of the townspeople, he just stands there in a daze,
+seemingly staring off into the distance.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+$
+True
+guitar_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You take a look at John. He is adorned in simple white
+robes with no other real distinguishing features. He is bald
+but isn't very old looking. Like many of the other townspeople 
+you have encountered he seems very friendly. Behind him, there
+are sacks stacked upon stacks, all containing food goods like 
+bread, grain, a few bottles of wine, and rice.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+guitar_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You take a look at the Peddler. He is adorned in simple white
+robes with no other real distinguishing features. He is bald
+but isn't very old looking. Like many of the other townspeople 
+you have encountered he seems very friendly. Behind him, there
+are sacks stacked upon stacks, all containing food goods like 
+bread, grain, a few bottles of wine, and rice. Looking closer,
+you see a guitar, much like the musicians used to play in Jax
+during festivals and other special events. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+#igor
+%
+True
+none
+
+$
+True
+wrestle_igor
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Igor has returned to his spot near the tent. He still looks
+quite dilapidated, and you know first hand how badly he smells,
+so you keep your distance. Despite the jewels you graciously
+gave to him, he continues to ask people if they can spare any
+gold. You hope he eventually finds his way off of the streets.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+wrestle_igor
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Igor stands near the tent, looking ragged and beat up. He
+clearly has not bathed in a long while. Considering his
+demeanor, and his general approach towards people, which is 
+to yell in their general direction, you think he might be two
+bricks short of a one brick load. 
+
+	"Please! Help Igor!"
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+#tent
+%
+True
+none
+
+$
+True
+clarinet_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The tent is not very large, but there is no one there. A table
+is positioned under the tent, but there is nothing of interest
+on, or under it.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+clarinet_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The tent is not very large, but there is no one there. A table
+is positioned under the tent, but there is nothing of interest
+on, or under it.
+
+Leaning up against the tent, you notice a very nice looking
+clarinet. It appears to have been there for some time gathering
+dust. You wonder who it belonged to.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+#clarinet
+%
+True
+whistle_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You already took the one clarinet by the tent. There are no
+others.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+$
+True
+clarinet_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The clarinet is very beautiful. It is still playable, and you
+can't imagine why anyone would just throw away a perfectly
+good Clarinet like this. Oh well, it is thier loss and your
+gain.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+clarinet_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The clarinet sits on the ground near the tent. While there is
+quite a bit of dust buildup, it still looks in rather good
+condition.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+#dario
+%
+True
+none
+
+$
+True
+key_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+After the machine started working, and you took the key,
+Dario appeared quite panicked, and ran to the back of his shop.
+You assume he is still back there as his store is now 
+unattended. He is lucky you are an honest person, or you would
+have taken yourself a new coat!
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+key_get
+---------------------------------------------------------------
+---------------------------------------------------------------
+You take a look at Dario. He prefers to wear a long, black
+overcoat while he is running the shop, which fits with the
+rest of his overall appearance. Short, straight black hair
+further darkens his look, and you see he is slightly hunched 
+over. Your first impression of him gives you a strange feeling.
+stomach. Perhaps you should watch him closely.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+#machine
+%
+True
+key_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Now that you have fixed the machine with the cogs and retrieved
+the small key, the device still turns with the cogs. You aren't
+sure what it is doing, but figure you don't have time to 
+question every possible thing. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+$
+True
+cogs_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+On the far side of the Haberdashery, near some rather older
+looking garments, you spot a very strange looking aperatus.
+It is small, but made of a smooth and shiny grey material,
+and is cold to the touch. THe only other discernable feature
+is a 3 tiny cylinders protruding from the front. On both the
+top side and the bottom side, you see a disc has been set
+inside the device so only a small portion can be seen from
+the outside. You wonder what is supposed to go here, as it
+clearly is not working and serves very little purpose.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+cogs_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+On the far side of the Haberdashery, near some rather older
+looking garments, you spot a very strange looking aperatus.
+It is small, but made of a smooth and shiny grey material,
+and is cold to the touch. THe only other discernable feature
+is a 3 tiny cylinders protruding from the front. On both the
+top side and the bottom side, you see a disc has been set
+inside the device so only a small portion can be seen from
+the outside. You wonder what is supposed to go here, as it
+clearly is not working and serves very little purpose.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+#suits
+%
+True
+none
+
+$
+True
+none
+
+&
+True
+last
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The Haberdashery is the selling place for many pieces of
+clothing, but this one has an emphasis on coats to protect
+one from the cold. There are coats of all colors and sizes
+around the shop. Most of them are stacked on tables, while some
+of them are propped up on display. You can only imagine what
+he has kept in the back room. You don't spend too much time
+perusing the shop, as your cloak keeps you warm enough to
+not have need for a new coat.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+#raft
+%
+True
+none
+
+$
+True
+river_cross
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You have inflated the raft, which is a giant turtle, and tied 
+it to the shore. You are now able to use the raft to float 
+across the river and back whenever you wish.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+True
+turtle_get
+---------------------------------------------------------------
+---------------------------------------------------------------
+You have in your possession an inflatable, large raft. This
+particular raft happens to be in the shape of a large turtle.
+It even has little turtle legs poking out from underneath!
+While you find it adorable, you also realize that having a 
+raft may come in handy. Perhaps it can help you cross the river
+to the other side.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+#pile
+%
+True
+none
+
+$
+True
+octopus_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Sure, why not look into the mud again? You dig around and
+get yourself even more dirty, but this time you find nothing.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+octopus_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You decide to take a closer look at the huge pile of mud. It
+is quite sticky. Against your better judgement, you decide to
+get a bit dirty and dig around the mud. You never know what
+might be stuck in the mud. Maxine would be jealous!
+
+You are about to give up, but something catches your eye. You
+take a closer look and see that there actually IS something
+in the mud! It looks like some kind of object, but it is
+covered in dirt and you can't exactly make it out. If you had 
+to take a guess, you think it looks like a spider.  
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+#mud
+%
+True
+none
+
+$
+True
+octopus_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Sure, why not look into the mud again? You dig around and
+get yourself even more dirty, but this time you find nothing.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+octopus_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You decide to take a closer look at the huge pile of mud. It
+is quite sticky. Against your better judgement, you decide to
+get a bit dirty and dig around the mud. You never know what
+might be stuck in the mud. Maxine would be jealous!
+
+You are about to give up, but something catches your eye. You
+take a closer look and see that there actually IS something
+in the mud! It looks like some kind of object, but it is
+covered in dirt and you can't exactly make it out. If you had 
+to take a guess, you think it looks like a spider.  
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+#cogs
+%
+True
+none
+
+$
+True
+cogs_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+These cogs look like the same ones from back home, but are
+much smaller. You have three, all of slightly different sizes,
+which are ringed with grooves which can fit into each other.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+cogs_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You take a closer look at the ground. Hidden in the grass,
+somewhat deliberately, you notice a few small, disc shaped
+objects. You bend down and examine the strange discs. They
+are ringed with grooves, and look like they can fit into
+each other like pieces. 
+
+You have seen something like these before. Back home, there
+were doors that could be opened with a turn crank. In order
+for it to work, however, they used these large discs,  
+called cogs, which would take some of the pressure off of the 
+crank and allow a normal human to lift very heavy doors. You 
+wonder what these smaller cogs could be used for?
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+#spider
+%
+True
+none
+
+
+$
+True
+octopus_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Now that you are in possession of the object, you can see that
+it is definitely a spider. It is heavy, and you figure the
+only thing it could be is some kind of statue. Currently,
+the spider is covered in dirt from the mud pile you extracted
+it from. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+octopus_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You don't know exactly what it is, but it definitely looks as
+though it is shaped like a Spider!
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+
+
+#octopus
+%
+True
+none
+
+
+$
+True
+give_octopus
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The Octopus statue you traded to Enzo is displayed front and
+center on his cart. He must really enjoy it! It looks great,
+but you have no use for it, so were happy to give it up.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+
+&
+True
+clean_octopus
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Well, you may have been wrong about the spider. It is quite 
+clearly an octopus statue. Now that it has been cleared
+of dirt, it is quite remarkable. The worksmanship is top
+notch, and you cannot see any faults or defects. You do kind
+of miss the spider, though.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+#desert
+%
+True
+none
+
+$
+True
+desert_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The desert seems to go in all directions from here. It meets 
+the horizon to the north, but you can still slightly see the
+town to the south, and the outline of a palace to the east. 
+There are plenty of smaller hills in that direction, however.
+Since you played music with Samara, she has told you how to 
+get through. So if you want to go to the palace, you feel
+comfortable enough that you could make it. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+desert_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The desert seems to go in all directions from here. It meets 
+the horizon to the north, but you can still slightly see the
+town to the south, and the outline of a palace to the east. 
+There are plenty of smaller hills in that direction, however.
+You don't know if you could find a good path through before
+the sun sets. Everyone knows the desert at night means certain
+death.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+#samara
+%
+True
+desert_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Samara now greets you when she sees you this time. She still
+looks the same as the last time you saw here when you played
+the clarinet with her. The guitar which you gave her is getting
+put to good use, as it would seem she was a natrual. Somehow,
+this does not surprise you. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+$
+True
+clarinet_play
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Samara now greets you when she sees you this time. She still
+looks the same as the last time you saw here when you played
+the clarinet with her. She is much more inviting since you
+won her trust. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+clarinet_play
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You see a young women leaning against a mound of sand, playing
+music with a small device you don't recognize. The women wears
+a leather vest and a hood which she can use to cover her face
+and protect her from the blowing sands. She notices you but 
+continues to play. To her left, you see a small door on the
+side of the sand pile. This must be where she lives! It makes
+you wonder who else.. or what else.. might live out here..
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+#woman
+%
+True
+desert_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Samara now greets you when she sees you this time. She still
+looks the same as the last time you saw here when you played
+the clarinet with her. The guitar which you gave her is getting
+put to good use, as it would seem she was a natrual. Somehow,
+this does not surprise you. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+$
+True
+clarinet_play
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Samara now greets you when she sees you this time. She still
+looks the same as the last time you saw here when you played
+the clarinet with her. She is much more inviting since you
+won her trust. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+clarinet_play
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You see a young women leaning against a mound of sand, playing
+music with a small device you don't recognize. The women wears
+a leather vest and a hood which she can use to cover her face
+and protect her from the blowing sands. She notices you but 
+continues to play. To her left, you see a small door on the
+side of the sand pile. This must be where she lives! It makes
+you wonder who else.. or what else.. might live out here..
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+#whistle
+%
+True
+none
+
+$
+True
+none
+
+&
+True
+whistle_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+This a thin, small piece of wood that has been fashioned into
+a device you can blow through and make sounds with. Using the
+tiny holes in the top, you can manipulate the notes and play
+melodies with it. Samara called it a whist. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+#guitar
+%
+True
+desert_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Samara is playing the hell out of that guitar, which is 
+impressive since she JUST started playing. YOu know this 
+because you were the one who gave it to her. At least now
+you can get out of this dry desert!
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+$
+True
+guitar_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You are now in possession of the wooden guitar. It has 6 
+strings, which you prefer over the obtuse 7-string guitars.
+You used to play guitar when you were younger, so you know
+how to play a little bit. You still hope that whatever 
+situation you find yourself playing guitar in is not life and 
+death. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+guitar_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The guitar is currently resting behind John, next to a few
+sacks of grain. Or maybe it is filled with rice. The guitar
+looks like ones you have seen at home in the past, usually
+played in groups at festivals or parties you Father enjoys
+throwing.This one looks a little older, and the wood is
+slightly damaged, but you bet it still sounds good.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+#key
+%
+True
+none
+
+$
+True
+none
+
+&
+True
+key_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+This is a pretty plain looking metal key. It is about the size
+of your index finger. You have no idea what it could possibly
+be used for, besides assuming that it unlocks something. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+#orb
+%
+True
+none
+
+$
+True
+none
+
+&
+True
+orb_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The orb you obtained by fixing the clock can fit in the palm
+of your hand. It is unlike anything you have ever seen! the
+surface of the orb is glass, and you can see a cloudy, green
+substance moving around inside. It gives off light, however,
+and seems to move of it's own accord. You would be frightened
+by this if Vincent had not told you what to expect. Either way,
+you don't feel too comfortable holding this powerful object.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+#slingshot
+%
+True
+none
+
+$
+True
+none
+
+&
+True
+wrestle_igor
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You hold a slingshot. It is pretty standard, made of a solid
+piece of wood with a leather strap connecting the two ends
+of the "Y". This is a great weapon, as it is small, undectable,
+and takes only a second to arm and shoot a small projectile.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+#palace
+%
+True
+none
+
+$
+True
+none
+
+&
+True
+last
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You gaze upon the enormous palace that lies beyond the gates.
+You have never seen anything like this. The casle back home was
+the biggest structure in the land of Jax, and inspired awe into
+anyone who set eyes upon it. But this palace.... this palace
+is much larger and more ornate than anything you have ever
+seen. You can see hundreds of small windows along the stone
+walls that encompass the structure, but seen no one at all
+within. It is hard for you to imagine a gigantic casle like
+this to be empty. What a waste of space! 
+
+As awe inspring as it is, you must turn back to the task at 
+hand, as there is no way of getting inside through the main 
+gate!
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+#drawbridge
+%
+True
+none
+
+$
+True
+none
+
+&
+True
+False
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The only way to directly get into the castle is through the
+two guards posted on the wall. You can see a large bridge,
+which is currently facing towards the sky so that none may
+cross. You wonder what the two guards would do if they were
+directly besieged by an enemy?
+
+You consider this as an option for a moment, but realize that
+with their weapons and armor, you wouldn't stand a chance
+against these two. Better to find another way into the palace.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+#monolith
+%
+True
+none
+
+$
+True
+secret_passage
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You have absolutely destroyed the monolith. Lucky for you, it
+is far enough away from the guards that you were able to 
+dismantle the stature without alerting them.
+
+Now it is just a pile of rocks. 
+The Inscription now reads
+LH DL
+HOD ES
+  HOCD S
+
+Or something like that. You know, without a doubt, that you
+will absolutely NOT need this in the future. Do not waste your
+time copying it. 
+
+If you are copying it becuause you were told not to, I 
+applaud your tenacity, and in most situations you would 
+probably be rewarded.
+
+But not here.
+
+This means nothing.LHDLHODESHOCDS means nothing. Ever.
+
+Don't copy it down. You want to because you are told not to.
+This is understood. But seriously, you don't need to. NO
+REASON. 
+
+Now We feel as though we are laying it in too thick. So you
+want to copy it down either way, because we made a big deal
+out of it.
+
+Now, you are asking yourself... "Who is we?"
+
+Indeed. Who are we.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+secret_passage
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You gaze upon the monolith. Your first thought is that it is
+strangely placed around the palace gate. Most of the wall is
+surrounded by shrubs, and spiky shrubs at that. However, for
+some reason the monolith has been placed about 50 meters to
+the west of the gate. There is no other monolith that you can
+see from your viewpoint.
+
+The monolith is essentially a large piece of stone which has
+been chiseled into the shape of an older man who is looking
+towards the sky. His arms are pointed away with palms facing
+up, welcoming the heavens.
+
+The inscription in the stone beneath him reads:
+
+ALL HAIL THE BASILEUS MAIODIN
+HE WHO WATCHES
+HE WHO ENDURES
+HE WHO ASCENDS
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+#vincent
+%
+True
+clock_fix
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Vincent has proven to be all that he has said to be. You trust
+him, now. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+$
+True
+vincent_trust
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Vincent is a strange man who lives inside this cave you 
+discovered behind the Monolith. This area of the cave is 
+slightly furnished with a pile of table, a fire, and a pile of 
+leaves which serves as a bed. 
+
+The man who lives here is quite old. He wears a dark cloak, 
+much like your own. You see his  grey hair poking out from his 
+hood, much like his long, grey beard.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+
+&
+False
+vincent_trust
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+**FIX**
+
+
+You have stumbled upon a strange man who appears to live
+inside this cave you discovered behind the Monolith. This
+area of the cave is slightly furnished with a pile of table,
+a fire, and a pile of leaves which serves as a bed. 
+
+The man who lives here is quite old. He wears a dark cloak, 
+much like your own. You see his grey hair poking out from his 
+hood, much like his long, grey beard.
+
+To your surprise, this is the first person you have met since
+crashing here that has given you a welcoming smile. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+#chamber
+%
+True
+none
+
+$
+
+True
+emerald_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You find yourself somewhere deep inside the palace after
+winding through corridors upon corridors of tunnel. Vincent
+was not lying when he told you it was going to be quite a
+journey to get through.
+
+This room you have come upon is quite ornate. There is a large
+mirror with a gold Frame that is encrusted in rubies and
+saphires. The point is, this room must belong to a very 
+wealthy person.
+
+The only thing of interest in the room is the large chest
+which you have opened.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+emerald_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You find yourself somewhere deep inside the palace after
+winding through corridors upon corridors of tunnel. Vincent
+was not lying when he told you it was going to be quite a
+journey to get through.
+
+This room you have come upon is quite ornate. There is a large
+mirror with a gold Frame that is encrusted in rubies and
+saphires. The point is, this room must belong to a very 
+wealthy person.
+
+While there are a lot of things in this room that you envy,
+the only thing that catches your eye is a large chest in the
+corner. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+#chest
+%
+True
+none
+
+$
+True
+emerald_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You have unlocked the treasure chest and removed the emerald.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+emerald_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+This is your standard looking treasure chest. It is made not
+of wood, however, but gold. It must weigh a ton! You see a 
+keyhole on the front face of the chest.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+
+
+
+
+#emerald
+%
+True
+none
+
+$
+True
+none
+
+
+&
+True
+emerald_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You found this emerald in the first room you came in since
+entering the castle. It is a large, red emerald that is
+hexagonal in shape on the sides, but comes to a point at the
+bottom.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+
+
+#maiodin
+%
+True
+none
+
+$
+True
+maiodin_nope
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The Basileus has fallen down and is currently cowered in the
+corner of the room, occassionally screaming. The orb had
+quite an effect on him!
+
+Time to make your move.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+maiodin_nope
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Here he is. You have finally found the Basileus.
+
+He is adorned in robes which have gold symbols embedded all
+along the edges. 
+
+
+Time to take out the Basileus.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+
+*
+
+#basileus
+%
+True
+none
+
+$
+True
+maiodin_nope
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+The Basileus has fallen down and is currently cowered in the
+corner of the room, occassionally screaming. The orb had
+quite an effect on him!
+
+Time to make your move.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+maiodin_nope
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Here he is. You have finally found the Basileus. He doesn't
+look all that impressive!
+
+He is adorned in robes which have gold symbols embedded all
+along the edges. You wonder why so many people around here
+wear robes!?
+
+Maiodin looks rather generic, actually. He is bald and has a
+round face. You can name at least 5 people who would look
+exactly like him if they wore a hood. This, somehow, gives
+you more confidence.
+
+Time to take out the Basileus.
+
+ He is a very clean looking man,
+with short, slicked back hair and a well kept mustache.
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+
+*
+
+#prism
+%
+True
+none
+
+$
+True
+maiodin_nope
+
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You are in awe of the power you feel from the Prism. It is
+quite amazing, and if you were not as disciplined as you are,
+you might have been destracted by the large crystal.
+
+But you were not!
+
+It is time to end this.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+False
+maiodin_nope
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You are in awe of the power you feel from the Prism. It is
+quite amazing, and if you were not as disciplined as you are,
+you might have been destracted by the large crystal.
+
+But you were not!
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+
+
+
+
+
+the_end

@@ -1,0 +1,1890 @@
+    
+#
+gold
+guard
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Your gold does not work there
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+%
+True
+sharp_dagger
+---------------------------------------------------------------
+---------------------------------------------------------------
+You have already given your gold to the guard. Your dagger is
+sharp.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+$
+True
+none
+
+&
+True
+last
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You decide to give your gold over to the guard in order to
+sharpen your knife. He chuckles slightly as he takes your money,
+but then looks at you straight in the eye.
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+GUARD:
+	"Trust me, mate. I'll make sure yer blade is sharp as a
+	mermaid's wit."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+The guard begins to sharpen your blade. After a few minutes, he
+hands your dagger back to you.
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+sharp_dagger
+none
+none
+-50
+none
+++
+
+
+
+
+
+
+#
+dagger
+shrubs
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You cannot use the dagger there
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+%
+True
+cut_shrub
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You have already cut the shrubs enough to fit through the fence
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+$
+False
+sharp_dagger
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You attempt to cut through the shrubs with you trusty dagger. 
+Unfortunately, it is not sharp enough to make any progress
+through the vegetation.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+True
+sharp_dagger
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Now that your dagger has been sharpened, you have no problem
+using it to cut down the overgrown shrubs and plants near
+the bottom of the fence. You slowly chip away, and soon you
+have created a small opening in the fence large enough for
+you to fit through. 
+
+It looks like you found your way into town, afterall.
+Good job!
+
+...
+Darn. You have relied on your dagger a few too many times. 
+While the blade was sharp, it was fragile, and cutting the 
+shrubs was the last cut the dagger could make. You say a silent 
+'thank you' before leaving it behind.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+cut_shrub
+dagger
+none
+none
+east
+++
+
+
+
+
+
+
+#
+rock
+rope
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You cannot use the rock there.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+%
+True
+none
+
+$
+True
+none
+
+&
+True
+rock_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You position yourself just outside of the guard's line of
+sight. Pulling out the sharp rock, you steady yourself and take
+aim for the top of the rope.
+.......
+.........
+WHOOOSHHH!!!!!
+........
+.......
+PERFECT THROW! You slice the rope near the top of the wall and
+the rope falls to the ground. Feeling proud of yourself, you
+casually walk over and take the rope. Luckily, no one else is
+around to see your shit-eating grin. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+rope_get
+rock
+rope
+none
+none
+++
+
+
+
+
+
+
+
+
+#
+rope
+well
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You cannot use the rope there
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+%
+True
+none
+
+$
+True
+none
+
+&
+True
+rope_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+With your coil of rope, you tie one end to the severed part 
+the well's rope. Once it is secure, you take the bucket and 
+attach it to the other end of your rope and begin to rotate
+the pulley attached to the well. Feeling confident in your
+work, you lower the bucket down into the well, hoping to get 
+some fresh water! 
+
+And who knows, maybe the town will thank you for fixing their
+well?
+
+After a minute, you pull the bucket back up. It is indeed 
+filled with fresh water! After taking a few large gulps of the
+much needed fresh water, you notice something else in the
+bucket.
+
+You look into the bucket and see a small doll. It is, of
+course, the Green Power Ranger. You take the doll.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+doll_get
+rope
+doll
+none
+none
+++
+
+
+
+
+
+#
+doll
+maxine
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You cannot use the doll there
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+%
+True
+none
+
+$
+True
+none
+
+&
+True
+doll_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Against your better judgement, you decide to see if Maxine is
+interested in the Green Ranger. You take it out and give it to
+her.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+MAXINE:
+	"OH MY TOMMY! YOU FOUND HIM! I lost him a long time ago!
+	but momma wouldn't get me a new one cuz the green one
+	is the most expensive. Thank you so much! Yay!"
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Maxine examines here doll for a brief second. Then without
+warning she runs to the other side of the road, behind one of 
+the nearest buildings. You figure she is probably gone and
+start to continue on your journey, but out of now where
+she comes back.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+MAXINE:
+	"Here! I thought of a way to help you! Since you can't
+	go walking around town looking like that, take this.
+	It's an old cloak my Da' has! But he doesn't need it
+	anymore, so now it's mine! But you can have it since
+	you found Tommy! If you put this on, you'll be able
+	to walk around without Bray getting you in trouble!"
+SETH:
+	"Wow, Maxine, that is very helpful. You are a smart
+	kid. I won't forget your help here.
+MAXINE:
+	"Make sure to visit Bailey in the Blacksmith when you
+	get a chance. She's real nice, I bet she'll help you!"
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+cloak_get
+doll
+cloak
+none
+north
+++
+
+
+
+
+
+#
+doll
+girl
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You cannot use the doll there
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+%
+True
+none
+
+$
+True
+none
+
+&
+True
+doll_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Against your better judgement, you decide to see if Maxine is
+interested in the Green Ranger. You take it out and give it to
+her.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+MAXINE:
+	"OH MY TOMMY! YOU FOUND HIM! I lost him a long time ago!
+	but momma wouldn't get me a new one cuz the green one
+	is the most expensive. Thank you so much! Yay!"
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Maxine examines here doll for a brief second. Then without
+warning she runs to the other side of the road, behind one of 
+the nearest buildings. You figure she is probably gone and
+start to continue on your journey, but out of now where
+she comes back.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+MAXINE:
+	"Here! I thought of a way to help you! Since you can't
+	go walking around town looking like that, take this.
+	It's an old cloak my Da' has! But he doesn't need it
+	anymore, so now it's mine! But you can have it since
+	you found Tommy! If you put this on, you'll be able
+	to walk around without Bray getting you in trouble!"
+SETH:
+	"Wow, Maxine, that is very helpful. You are a smart
+	kid. I won't forget your help here.
+MAXINE:
+	"Make sure to visit Bailey in the Blacksmith when you
+	get a chance. She's real nice, I bet she'll help you!"
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+cloak_get
+doll
+cloak
+none
+north
+++
+
+
+
+
+
+
+
+#
+compass
+lucious
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You cannot use the compass there.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+%
+True
+none
+
+$
+True
+none
+
+&
+True
+compass_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Thinking that this might be the compass Lucious mentioned to
+you that he lost in the woods, you take it out and hand it
+to him. His eyes light up upon seeing it! 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+LUCIOUS:
+	"That is it! I cannot believe you found that! I looked
+	everywhere out in the woods for it!
+SETH:
+	"I found it inside of a large, old tree near the town
+	gate. I was going to use it to help in my travels,
+	seeing as how it still works. But it is rightfully
+	yours, so here you go.
+LUCIOUS:
+	"Master Seth, I cannot thank you enough. This compass
+	has been with my family for many years. Although, I
+	can't even remember how long it has been since I had
+	last seen it."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Lucious' demeanor changes briefly, looking as though he just
+had a realization. He pauses for a moment before speaking
+once again.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+LUCIOUS:
+	"Anyways, I really wish there was something I couuld 
+	offer you to help in its' stead. Regrettably, I don't
+	sell anything here but my horses."
+SETH:
+	"Please, you don't owe me anything. I am just happy I
+	could help. Besides, a horse might be a bit too large
+	to fit in my pocket.
+LUCIOUS:
+	"Of course! Well, if you ever decide you want to 
+	journey through the desert to the north, I might be
+	of assistance."
+SETH:
+	"I was never too good with horseriding in my homeland,
+	but i will remember your offer."
+LUCIOUS:
+	"Your homeland? Where abouts might that be?"
+SETH:
+	"I am from a large country called Jax. It is very far 
+	to the south. Errr... maybe the west? Admittedly, I 
+	actually am not too familiar with where exactly I am. 
+	
+	Jax is a beautiful place. Many forests which are home
+	to different species of animals who co-exist with the
+	people there. I love it there. The only reason I left
+	was so that I could finally see the world which I had
+	only heard of. It would seem I may have journeyed a
+	bit too far, however, as my boat was caught in a storm
+	and crashed ashore on your fair island."
+LUCIOUS:
+	"That is quite a tale! I love a good adventure! I plan
+	on setting out on one myself before too long. I am not
+	sure what is stopping me, though. Must be getting old!
+	
+	Well, I can at least try to help you feel more 
+	comfortable with your surroundings. This is a great 
+	little town, and we mostly keep to ourselves. The
+	Basileus is in charge of the entire island, though
+	he doesn't make his prescence felt too much. If you
+	haven't yet, I strongly reccomend going to the 
+	Blacksmith to the south. Bailey is an absolute joy of
+	a person, and her weapons are the best I have ever
+	seen. In fact, I know she has a few things that
+	a generous man like yourself may be able to help with. 
+	You can never have enough friends, afterall!"
+SETH:
+	"Thank you Lucious. I have seen her shop, but it was
+	closed. Perhaps I shall go back and see if she is in.
+	I am sure I will see you again."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Lucious smiles at you, gives another thanks, and goes back to
+work tending his horses.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+bailey_hug
+compass
+none
+none
+none
+++
+
+
+
+
+
+
+
+#
+clothes
+bailey
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You cannot use your clothes there.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+%
+True
+none
+
+$
+True
+none
+
+&
+True
+last
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You consider Bailey's predicament, and decide you might be
+able to help.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+SETH:
+	"I think I may be able to help you, Bailey. Here, take
+	my old clothes. I don't really need them with this
+	cloak. I apologize for their condition."
+BAILEY:
+	"Oh, speak not such nonsense! That would be perfect for
+	me'self, the dirtier the better! I will easily be able
+	to disguise me'self in clothes such as the ones ye
+	present me. If they smell foul, even better!"
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You hand the clothes to Bailey.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+BAILEY:
+	"I thank ye, Seth. I didn't expect yer help, but ye
+	gave it anyways. Let me know if I can help ye in
+	return. Got a weapon ye need fixin'?
+SETH:
+	"No, my dagger succombed to the elements already, I am 
+	afraid. I am happy to help, Bailey. I know what it is 
+	like to have to hide from the eyes of the people."
+BAILEY:
+	"Oh?"
+SETH:
+	"Yes. My father is the King of my homeland. That doesn't
+	exactly make me unpopular."
+BAILEY:
+	"Ah, so ye are a Prince. Prince Seth, I like the way it
+	sounds. Well, Prince Seth, perhaps we can discuss such
+	matters at some point. I must return to me work, however.
+	Lots to do here! But please make yerself welcome here
+	anytime ye want."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Bailey thinks for a second.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+BAILEY:
+	"Would ye be interested in helping me with something,
+	being as ye can roam freely about town? I just finished
+	Captain Bray's sword, but I still have a few items to
+	be worked on. He needed it sharpened. If ye return it
+	to him, I would wager himself to be quite pleased."
+SETH:
+	"Of course I would. Thank you, Bailey. If there is
+	anyone whose trust I would benefit from, it is most
+	definitely the Captain."
+BAILEY:
+	"Indeed, Seth. Take this to him immediately, I am sure
+	it will help ye. And come back anytime!"
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You take the sword.
+---------------------------------------------------------------
+---------------------------------------------------------------
+	
+*
+sword_get
+clothes
+sword
+none
+none
+++
+
+
+
+
+#
+sword
+bray
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You can't use the sword there.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+%
+True
+none
+
+$
+True
+none
+
+&
+False
+sword_give
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You approach the Captain.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+SETH:
+	"Captain, sorry to disturb you again, but I have just 
+	seen Bailey, and she has not had the time to return 
+	this to you.  So here you go."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You hand the sword to Bray. He takes it and appraises Bailey's
+work. After a few moments, he gives a slight nod in your 
+direction.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+BRAY:
+	"I thank you for returning this to me, Seth. I have
+	the highest of respect for Bailey, as she does for me.
+	If she entrusted you with this, I imagine she had a 
+	good reason to do so. You must understand my position. 
+	I must be extremely wary of strangers here. The people
+	who are in this town everyday.. I have no need to 
+	worry about. I know them all, but people I don't know 
+	make me nervous."
+SETH:
+	"I understand, Captain. You need not explain to me,
+	I can only imagine the stress you must endure in your
+	position."
+BRAY:
+	"Indeed. Ok Seth, you and I are acquainted. Tell me 
+	What are you doing here?"
+SETH:
+	"Of course. As I said before, I crashed upon the shores
+	of this land. I lost everything aboard my ship, but I
+	survived. Which is what I did for many days in
+	the forest, walking towards the sunrise in hopes of
+	finding SOMETHING. Then, I found Galilei."
+BRAY:
+	"Hmmmm. You and I should speak more."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+sword_give
+sword
+none
+none
+east
+++
+
+
+
+
+
+#
+marbles
+dario
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You cannot use the marbles there
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+%
+True
+none
+
+$
+True
+none
+
+&
+True
+last
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+SETH:
+	"Say, Dario.. I know you mentioned earlier how you 
+	were fond of playing games with your son. Have you
+	taught him how to play marbles yet?"
+DARIO:
+	"Marbles? Uhhh... err no! I don't know how to play
+	marbles, either, as a matter of fact."
+SETH:
+	"Ah yes, well, let me show you."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You spend a few minutes showing Dario how to play Marbles.
+That's right, marbles.
+You have no idea if there is even a real game called marbles,
+so you just make it up as you go along.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+SETH:
+	"Ok, so you take that pile, and I will take this pile.
+	Now, I will set 5 marbles over here in a circle. You
+	have to try and knock your marbles into my circle,
+	while I try and knock your marbles out of the circle,
+	but you can't hit the circle, because it's a penalty."
+DARIO:
+	"Oh! What's the penalty!?"
+SETH:
+	"You lose some marbles. Ok, so then while the game is
+	being played, we are rolling marbles at the other's
+	marbles. If I knock all of your marbles off of your
+	side of the table, it's a whammy."
+DARIO:
+	"AH! What's a whammy?!?!"
+SETH:
+	"Well, that is when you have to choose a letter of the
+	alphabet. Don't tell the opponent what it is, but tell
+	the person who is closest to your opponent."
+DARIO:
+	"But, that IS you."
+SETH:
+	"Right, so you have to follow the rules!"
+DARIO:
+	"F"
+SETH:
+	"Right. Ok, so if YOU manage to get your marbles into
+	the circle without the circle getting hit, you win
+	a Grand Prize!"
+DARIO:
+	"OH! OH! WHAT'S THE GRAND PRIZE?!?!?!?!"
+SETH:
+	"All of the marbles. Here you can have these as a 
+	starter set."
+DARIO:
+	"Oh.. uhh.. WOw! Thank's Seth! I think! I bet my son
+	will have a good time playing this with me. He will
+	at least have a time!"
+SETH:
+	"You are welcome. Actually, I thought perhaps you could
+	help me with something. John on the other side of town
+	mentioned you might be able to help me cross the river
+	as the bridge is still blocked."
+DARIO:
+	"Oh.. uhh.... Wait. 
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Dario seems confused for a moment. But he laughs slightly,
+and without saying anything goes to the back. You wait for
+a minute. Then you wait for five, but he still does not return.
+You are just about to leave, when he finally comes back holding
+a small green pouch.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+DARIO:
+	"Here, ummm take this! Take it to the river and then
+	blow into this little tube here! It takes a little
+	while, and you get dizzy, but you can use it to 
+	cross the river. I think!"
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Dario hands you the pouch. You thank him for his help, and tell
+him you will come back again later. He nods back and stares at
+you. 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+turtle_get
+marbles
+raft
+none
+none
+++
+
+
+
+
+
+
+#
+raft
+river
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You cannot use the turtle there
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+%
+True
+none
+
+$
+True
+none
+
+&
+True
+turtle_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You pull out the raft and and begin to inflate it. After a few
+minutes, you are in possesion of a large raft shaped as a
+turtle. You throw it onto the shore of the river so that
+you can use it whenever you please. If you want to cross
+the river, just go north!
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+river_cross
+raft
+none
+none
+north
+++
+
+
+
+
+
+
+
+
+
+#
+clarinet
+samara
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You cannot use the clarinet there.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+%
+True
+none
+
+$
+True
+none
+
+&
+True
+clarinet_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You decide to try a different approach.
+
+You once again approach the woman by the large sand dune. As
+she continues to play, you hold the clarinet up to your lips
+and start to join in with her. Eventually, you both fall into
+a groove and you find yourselves drawn in by the music the
+two of you are making. 
+
+Lucky that you took clarinet Lessons those many years ago!
+
+You finish the song, and the woman smiles at you. To your
+surprise, she speaks first.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+SAMARA:
+	"That was beautiful, traveller. You play that quite
+	well. Pray tell, what is the name of that instrument?"
+SETH:
+	"We call it a clarinet back home, but I actually found
+	this one in town. It had been left behind. You are 
+	very talented yourself. My name is Seth."
+SAMARA:
+	"Aye, pleasure to meet you Seth. I am Samara. I live
+	out here in the desert. I prefer being alone with 
+	the creatures who live out here rather than in town.
+	No one there really appreciates music like I do.
+	Except for John."
+SETH:
+	"Understandably. Everyone seems in a rough to get
+	places back in town. It must be much more relaxing
+	to be out here."
+SAMARA:
+	"Relaxing, yes, but also hot and the sands can get
+	to be dangerous during certain times of the year."
+SETH:
+	"Does anyone else live out here with you?"
+SAMARA:
+	"Nay, I am by myself. 
+	Say, I may have a trade offer you could be
+	interested in. I will trade you this whistle for
+	your clarinet. You may trade back anytime, I just
+	have a love of learning new things."
+SETH:
+	"Absolutely. I could not deny you that. Here you
+	go."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You exchange instruments with her. You see no reason not to, 
+and you were not particularly attached to that clarinet. 
+
+You put the whistle away.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+whistle_get
+clarinet
+whistle
+none
+none
+++
+
+
+
+
+
+
+
+
+
+#
+spider
+well
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You cannot use the spider statue there
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+%
+True
+none
+
+$
+True
+none
+
+&
+True
+octopus_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You have an idea! You lower the bucket into the well to get
+some fresh water. Taking out the dirty Spider statue, you 
+put it into the bucket of water and wash off all of the dirt.
+It takes a while, but eventually you have a beautiful statue
+instead of a dirty one.
+
+However, you were wrong about one thing. It isn't a spider
+statue at all, but is actually an Octopus statue. You put the 
+Octopus statue away.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+clean_octopus
+spider
+octopus
+none
+none
+++
+
+
+
+
+
+
+
+
+#
+whistle
+john
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You cannot use the whistle there
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+%
+True
+none
+
+$
+True
+none
+
+&
+True
+whistle_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+SETH:
+	"Hey John, what do you think of this?"
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You take a few minutes and play a song on the whistle you
+recieved from Samara. It is the only song you figured out how
+to play, but you still get a small crowd forming around you.
+As you finish the tune, the people begin to clap.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+JOHN:
+	"Ah, Seth! That was indeed a lovely little tune! How
+	did you know I was a fan of the musical arts? Pray
+	tell, what is that wonderful implement?"
+SETH:
+	"I traded for it in the desert. It sounds greay, does 
+	it not? Would you be interested in trading for it?"
+JOHN:
+	"Most certainly! Do you see anything you might find of
+	value amongst my collection?"
+SETH:
+	"I wondered if you might find it in yourself to part
+	the guitar. I used to play when I was younger, I
+	I thought to try and pick it up again."
+JOHN:
+	"'Tis only fair to trade one musical instrument for 
+	another. The guitar is yours."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You take the guitar.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+guitar_get
+whistle
+guitar
+none
+none
+++
+
+
+
+
+
+#
+octopus
+enzo
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You cannot use the Octopus Statue there.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+%
+True
+none
+
+$
+False
+clean_octopus
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+ENZO:
+	"Yeah, that's a pretty nice lookin' thing ya got there,
+	but it's a bit dirty. I might find some value in it if
+	ya clean it up a bit."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+True
+clean_octopus
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You offer the Octopus statue to Enzo, thinking he may have
+interest in it, being as he likes animals and "animal things."
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+ENZO:
+	"Ok, now we're talkin'! This is the kinda thing I like
+	to see!"
+SETH:
+	"I found it outside of the town. When I saw it, I
+	immediately thought you might find some value in it."
+ENZO:
+	"Oh, you are a thoughtful one, Seth. Lemme take a look
+	at this."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Enzo takes the statue and begins to inspect it. After a quick
+lookover, he retrieves a small, circular piece of glass and
+looks through it, slowly scanning the statue.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+ENZO:
+	"As I thought, you got a nice piece here. I can give ya
+	some other piece of crap in trade, or if you want to
+	go even-steven, I got the currency to suit your needs."
+SETH:
+	"I don't see anything that might help me, I am afraid.
+	So I suppose I will go with.. umm... even steven?"
+ENZO:
+	"Atta boy, you got good taste. Here ya go!"
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Enzo hands you a small leather sack. You peek into the sack and
+see it is filled with green and blue jewels. You assume they 
+are very valuable around this area, and hope that Enzo is not
+shorting you on this exchange. You put the sack of jewels away.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+give_octopus
+octopus
+jewels
+none
+none
+++
+
+
+
+
+
+
+
+
+#
+cogs
+machine
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You cannot use the cogs there.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+%
+True
+none
+
+$
+True
+none
+
+
+&
+True
+cogs_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You take cogs you found outside of town and attempt to position
+then on the strange machine at the far end of the shop. You
+find, unsurprisingly, that they easily click into place. As
+soon as the cogs are in the machine, it slowly starts to move.
+
+The cogs turn each other until the larger one embedded in the
+machine moves as well. The machine begins to buzz as it works,
+and after a few moments, a small drawer opens out from the
+side of the device. You reach in and find a small, gold key,
+which you take. 
+
+You hear a noise coming from behind you.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+DARIO:
+	"OH! Uh, What did you do?! You can't do that!"
+SETH:
+	"Sorry. I did, though."
+DARIO:
+	"OH no! He's going to be so mad! I didn't know. I 
+	didn't know. Oh so mad, but I didn't know!!"
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Dario starts to panic and pace behind is counter, mumbling
+incoherently to himself. He lets out a quick scream, opens the
+door to the backroom and leaves the floor unnattended. You
+expect him to come back, but he does not. 
+
+Starting that machine and finding the key really sent him
+into a panic.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+key_get
+cogs
+key
+none
+none
+++
+
+
+
+
+
+
+
+#
+jewels
+igor
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You cannot use the jewels there
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+%
+True
+none
+
+$
+True
+none
+
+&
+True
+give_octopus
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You take a deep breathe, then you approach Igor.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+SETH:
+	"OK, Igor. I have something I want to give you. But I
+	need you to assure me that you will use it to get back
+	on your feet. Get a place to live and but some good
+	clothes.
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You hand the bag of jewels to Igor. He takes the sack without
+saying anything and looks inside. His eyes light up.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+IGOR:
+	"Oh. Oh! Oh wow! Seth! Igor thankful for Seth! You
+	give this to Igor?!"
+SETH:
+	"Yes. I want you to get better, Igor. You said you like
+	to wrestle, right? Use this to help you get better and
+	become a professional."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Igor's face lights up
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+IGOR:
+	"Yes! Seth! You wrestle Igor! Seth and Igor have match!
+	Seth said to follow dreams!"
+SETH:
+	"Well, I.. errr.. yes I did. But I cannot wrestle, I am
+	not trained..."
+IGOR:
+	"HA! Neither is Igor! But Igor show Seth! Igor show
+	how to wrestle without dying!"
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You really feel as though you should try to get out of this. 
+But when it comes down to it, you are kind of interested in
+what Igor is planning to do. 
+Ok.
+Let's have a wrestling match.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+SETH:
+	"Alright, Igor. I accept your challenge..."
+IGOR:
+	"OH! Seth and Igor entertain city! Seth will see!!
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+
+- - - - - - - - - - - SOME TIME LATER - - - - - - - - - - - - - 
+
+
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+{ TO DO: Wrestling match }
+
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+IGOR:
+	"Seth good at wrestling! Seth a star!"
+SETH:
+	"Thank you, Igor. I could not have done it without you.
+	It sure was quite an experience! However, I really must
+	continue my journey."
+IGOR:
+	"Yes, Igor know. Igor understand. Igor not have much,
+	but Igor give this to Seth. Seth might use it!"
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Igor reaches out to you with a nice looking slingshot in hand.
+You begin to protest, but decide that a slingshot might come
+in handy. You did give him a sack of jewels, after all.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+SETH:
+	"Thank you, Igor. I think I can find use of this.
+	Perhaps our paths will cross again. A good day to you,
+	and remember what I said about what I gave you."
+IGOR:
+	"Yes! Igor knows! Igor find place to live! Igor find
+	clothes!"
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+wrestle_igor
+jewels
+slingshot
+none
+none
+++
+
+
+
+
+
+
+
+#
+hands
+clock
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You cannot use the hands there.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+%
+True
+none
+
+$
+False
+vincent_trust
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You place the clock hands on the clock at the 12:00 position.
+They click right in, but nothing happens. You move the hands
+around, but still nothing happens. Perhaps you need something
+else before you can solve this puzzle. You remove the hands 
+from the clock and put them away.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+True
+vincent_trust
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You go to clock puzzle.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+clock_game
+none
+none
+none
+none
+++
+
+
+
+
+
+
+
+#
+guitar
+samara
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You cannot use the guitar there.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+%
+True
+none
+
+$
+True
+none
+
+&
+True
+guitar_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You approach Samara and take out the guitar you received from
+John. Lucky for you, you were taught how to play guitar as
+a child.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+SETH:
+	"Greetings, Samara. I was curious.. have you seen this
+	before?"
+SAMARA:
+	"Nay! As you could guess, I have seen many musical 
+	instruments in my travels, but that particular 
+	implement is foreign to me! What does it sound like?"
+SETH:
+	"I will show you! Prepare your clarinet! I hope you
+	been practicing."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You begin to play a song on the guitar that you learned as a
+child. It is a variation on your nation's anthem that your
+instructor showed you years ago. As you pick the notes, you
+notice Samara staring intently at the instrument, mesmerized
+by the notes. 
+
+Not surprisingly, she begins to play with you after a few bars.
+You knew she was talented, but her ability to pick up on the
+notes you are playing is unmatched. Before long, the two of you
+are playing off each other, creating new variations of the song
+you have played a million times before. You lose yourself in
+the music, and play with Samara for many minutes.
+
+Eventually, the song comes to an end.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+SAMARA:
+	"I do not know about yourself, but I quite enjoyed
+	that."
+SETH:
+	"As did I. Thank you for joining me! I was able to see
+	a side of the song I had never heard before. It was
+	enlightening. You are very skilled!"
+SAMARA:
+	"Ah, it is what I do. I have plent of spare time on my
+	hands...
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Samara looks at you intently for a few moments. You stare right
+back into her eyes, hoping she can see you for who you truly
+are.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+SAMARA:
+	"You are a strange one, Seth. But, I like that about
+	you. I trust you. And so, I will tell you how to get to
+	the palace. But please.. you did NOT hear this from me.
+	This is still dangerous for me to do."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Samara explains how to get to the palace.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+SETH:
+	"Thank you so much for your help, Samara. I will return
+	sometime and we can create music again someday. I think
+	there are many lands far away from here who would love
+	to hear you play."
+SAMARA:
+	"You flatter me, Seth. Please, come back anytime!"
+ 
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+desert_get
+guitar
+none
+none
+east
+++
+
+
+
+
+
+
+
+#
+hammer
+monolith
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You cannot use the hammer there.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+%
+True
+none
+
+$
+True
+none
+
+&
+True
+hammer_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You decide the monolith must be intentionally out of place
+here at the Palace gates. It is far enough away from the guards
+that they do not notice you using your hammer to dismantle
+the monolith. YOu take it apart piece by peace, and to little
+surprise, find a small tunnel built into the earth directly
+behind where the monolith used to stand.
+
+You do not know exactly where this tunnel leads, but you know
+that there may be no other way into the Palace. The passage
+leads to the North.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+secret_passage
+hammer
+none
+none
+north
+++
+
+
+
+
+
+
+#
+slingshot
+vincent
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You cannot use the slingshot there.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+%
+True
+none
+
+$
+True
+none
+
+&
+True
+wrestle_igor
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+Thinking about what Vincent had asked of you, you take the
+slingshot and offer it to Vincent.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+SETH:
+	"It is not much, but here is something that may help.
+	When placed in the right hands, this can be a very
+	effective weapon."
+VINCENT:
+	"Indeed, Seth. I happen to be a fine marksmen. I thank
+	you for this gift. I will be happy to share with you
+	what I know. I believe you are here for a reason."
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+vincent_trust
+slingshot
+none
+none
+none
+++
+
+
+
+
+
+
+
+#
+key
+chest
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You cannot use the key there
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+%
+True
+none
+
+$
+True
+none
+
+&
+True
+key_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You grasp the key you found in Dario's shop, and insert it
+into the keyhole in the large chest. You take a breath, and
+turn the key..
+
+You feel a slight resistance, but with some effort, the key
+turns, unlocking the chest.
+
+You open the chest and examine it's contents. You expected it
+to be full, considering how much it weighs. However, there is
+one object inside. It is a small, green emerald, and it
+appears to be in perfect condition. When you pick it up, you
+can feel the power emanating from it.
+
+This must be the object Vincent was talking about.
+
+Feeling ready for the final battle, you place the emerald in
+your pack.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+emerald_get
+key
+emerald
+none
+none
+++
+
+
+
+
+
+
+#
+orb
+maiodin
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You cannot use the orb there.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+%
+True
+none
+
+$
+True
+none
+
+&
+True
+clock_fix
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+As you take out the orb you found in the clock tower, you
+can feel it perculating with energy. It feels warmer than
+usual, and you can see whatever is contained within the glass
+sphere is moving around quickly. 
+
+You feel compelled to hold the sphere out towards Maiodin. As
+you move the sphere closer, you can feel a force pushing
+against your hand. You continue to push it out, and move
+towards him as you push through the opposing force. 
+
+the Basileus' face begins to turn as you move closer towards
+him. He begins to stumble on his words, and you can see him
+shaking as you aproach. It is almost as if you can feel energy
+building between the orb and Maiodin, and soon enough you
+find yourself directly in front of him.
+
+Without warning, the energy reaches a point where it can no 
+longer be contained. There is a blinding flash of light, and
+you hear a loud scream from the direction of Maiodin. You lurch
+forward as the force pushing against you ceases, and when your
+eyes adjust to the scene, you see the Maidoin lying on his
+back, grabbing his head and screaming. 
+
+That worked well!
+
+With the Maiodin incapacitated, you see your chance to end
+this once and for all!
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+maiodin_nope
+orb
+none
+none
+none
+++
+
+
+
+
+
+
+#
+emerald
+prism
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You cannot use the emerald there, bitch!
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+%
+True
+none
+
+$
+False
+maiodin_nope
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You cannot yet use the emerald on the Prism! Maiodin is in the
+middle of some kind of spell, and the entire room is shrouded
+in a protective barrier which you cannot yet pass! Better
+take care of the Basileus first before you save the world!
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+&
+True
+emerald_get
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+You decide to approach the huge crystal in the center of the
+room. With The Basileus incapacitated, you realize that this
+may be your only chance. 
+
+The crystal pulses with power. You feel a force pushing back
+against you, but you push through. Soon, you are right upon
+it. 
+
+It is the most perfect crystal you have ever seen. The power
+contained within is unlike anything you have ever encountered,
+and you don't see any possible way you could counteract and
+beat this kind of power.
+
+But then, you see something unusual.
+
+On the top of the crystal, you see a small recess. A small,
+gem shaped recess. You remove the gem from you pouch, and
+find that it fits perfectly into the Prism.
+
+As the gem fits into place, the crystal instantly loses its
+lumincescence while at the sime time, the torches that light
+the room all go out at the same time. There is a moment of
+silence and blackness.
+
+But only for a second.
+
+Suddenly you are flying backwards through the air and smash
+painfully into the wall with such a force that you end up
+sitting inside a huge recess you created with the impact of
+your body.
+
+The energy released from the Prism is Awesome. Like yourself,
+everything else in the room is taken by the force and is
+pushed to the walls, leaving nothing but the Prism in the
+middle. You cannot be sure, but you think you can the sound
+of the entire Palace shaking and large structures crashing
+against the structure. The room shakes. The ground shakes.
+
+The Palace shakes....
+
+The last thought you have before being hit in the head with
+a large stone and being knocked unconcious is that you need 
+to get out of here before the whole Palace crashes down on 
+itself....
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+*
+emerald_use
+emerald
+none
+none
+none
+++
+
+
+
+
+
+#
+the_end
+adsfasdfasdfadf you win
+---------------------------------------------------------------
