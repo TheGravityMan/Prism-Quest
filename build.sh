@@ -18,7 +18,7 @@ print('.'.join(
 )
 ")
 
-BUILD_NUMBER="1.0.1"
+BUILD_NUMBER="1.0.2"
 
 echo "__version__ = '$BUILD_NUMBER'" >> __version__.py
 
