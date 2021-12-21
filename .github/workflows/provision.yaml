@@ -1,0 +1,21 @@
+name: Test- Provision a device
+  
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+    name: Provision a device to Murano after a new Release
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@master
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    - name: Provision Device to Murano
+      uses: test/provision.py
+      with:
+        password: ${{ secrets.PYPI_API_TOKEN }}
