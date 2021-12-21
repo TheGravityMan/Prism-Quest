@@ -16,6 +16,6 @@ jobs:
       with:
         python-version: 3.8
     - name: Provision Device to Murano
-      uses: test/provision.py
+      uses: TheGravityMan/Prism-Quest/test/provision.py
       with:
         password: ${{ secrets.PYPI_API_TOKEN }}
