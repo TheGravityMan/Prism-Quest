@@ -19,7 +19,7 @@ POLLING_RATE = 60 # In Seconds
 def get_current_time():
         return dt.datetime.now()
 
-DEVICE_ID = get_current_time()
+DEVICE_ID = str(get_current_time())
 HOST_URL = "https://a4b2b21bbpf200000.m2.exosite.io/"
 
 
