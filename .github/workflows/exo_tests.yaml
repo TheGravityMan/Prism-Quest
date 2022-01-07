@@ -22,5 +22,5 @@ jobs:
       run: pip install requests
       shell: bash
     - name: Provision Device, check for config, and write data  to Murano
-      run: python $FILEPATH
-      shell: bash
+      run: $FILEPATH
+      shell: python
