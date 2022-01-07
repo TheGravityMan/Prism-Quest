@@ -16,5 +16,5 @@ jobs:
       with:
         python-version: 3.8
     - name: Provision Device to Murano
-      run: python provision.py
+      run: python .github/workflows/provision.py
       shell: bash
