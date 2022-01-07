@@ -2,6 +2,7 @@ import requests
 from os.path import exists as file_exists
 import json
 import time
+import datetime as dt
 
 ## HTTP Request Parameters
 PROVISION_ENDPOINT =  'provision/activate'
@@ -15,8 +16,12 @@ TOKEN_FILE = "token.txt"
 NUM_ITER = 1 # Number of times the ExositeSimulator.run() method loops
 POLLING_RATE = 60 # In Seconds
 
-DEVICE_ID = "AWESOME_TEST"
+def get_current_time():
+        return dt.datetime.now()
+
+DEVICE_ID = get_current_time()
 HOST_URL = "https://a4b2b21bbpf200000.m2.exosite.io/"
+
 
 class UserDefinitions(object):
 	''' Class to manage User input '''
