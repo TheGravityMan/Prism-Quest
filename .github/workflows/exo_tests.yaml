@@ -19,8 +19,8 @@ jobs:
       with:
         python-version: 3.8
     - name: Install Requests
-      run: pip install requests
-      shell: bash
+      run: |
+        pip install requests
     - name: Provision Device, check for config, and write data  to Murano
-      run: python $FILEPATH
-      shell: bash
+      run: |
+        python $FILEPATH
