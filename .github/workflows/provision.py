@@ -15,7 +15,7 @@ TOKEN_FILE = "token.txt"
 NUM_ITER = 1 # Number of times the ExositeSimulator.run() method loops
 POLLING_RATE = 60 # In Seconds
 
-DEVICE_ID = "AWESOME TEST"
+DEVICE_ID = "AWESOME_TEST"
 HOST_URL = "https://a4b2b21bbpf200000.m2.exosite.io/"
 
 class UserDefinitions(object):
@@ -75,15 +75,15 @@ class ExositeSimulator(object):
 		print(self.device_id)
 		print(self.host_url)
 		## If token does not exist, exit program
-		#if self.token == "":
-                #        print("No token available, Stopping Simulator")
-                #        return
+		if self.token == "":
+                        print("No token available, Stopping Simulator")
+                        return
 
 		## Cheeck for and acknowledge config_io
-		#self.config_io_utils()
+		self.config_io_utils()
 	
 		## Main loop data collection and reporting
-		#self.run()
+		self.run()
 
 	def load_token(self):
 		""" Method to get token from file """
@@ -173,7 +173,7 @@ class ExositeSimulator(object):
 		while NUM_ITER >= loop:
 
 			## Change code below to customize your own data handling!!
-			for i in range(1,11):
+			for i in range(1,6):
 				payload = "data_in={}".format(json.dumps({"000": i}))
 				resp = self.http_write(payload)
 				if resp.status_code == 200 or resp.status_code == 204:

@@ -18,6 +18,6 @@ jobs:
     - name: Install requests
       run: pip install requests
       shell: bash
-    - name: Provision Device to Murano
+    - name: Provision Device, check for config, and write data  to Murano
       run: python .github/workflows/provision.py
       shell: bash
