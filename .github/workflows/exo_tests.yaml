@@ -9,7 +9,7 @@ on:
 
 jobs:
   build:
-    name: Provision a device to Murano after a new Release
+    name: Provision a device, check for config_io, and write data  to Murano after a new Release
     runs-on: ubuntu-latest
 
     steps:
@@ -18,9 +18,9 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: 3.8
-    - name: Install requests
+    - name: Install Requests
       run: pip install requests
       shell: bash
     - name: Provision Device, check for config, and write data  to Murano
-      run: $FILEPATH
-      shell: python
+      run: python $FILEPATH
+      shell: bash
