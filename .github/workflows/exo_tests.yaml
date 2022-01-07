@@ -1,7 +1,7 @@
 name: Test- Provision a device
 
 env:
-  FILEPATH: .github/workflows/provision.py
+  FILEPATH: .github/workflows/exo_tests.py
   
 on:
   push:
