@@ -24,7 +24,7 @@ except:
 
 setup(
     name="PrismQuest",
-    version="1.0.4",
+    version="1.0.5",
     author="The Gravity Man",
     author_email="patrickjshanks@gmail.com.com",
     description="""Prism Quest is a text-based game.""",
